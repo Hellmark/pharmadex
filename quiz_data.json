@@ -769,7 +769,7 @@
   },
   {
     "type": "pokemon",
-    "name": "CranidosF[h]"
+    "name": "Cranidos"
   },
   {
     "type": "pokemon",
@@ -805,7 +805,7 @@
   },
   {
     "type": "pokemon",
-    "name": "RampardosF[h]"
+    "name": "Rampardos"
   },
   {
     "type": "pokemon",
@@ -841,7 +841,7 @@
   },
   {
     "type": "pokemon",
-    "name": "ShieldonF[h]"
+    "name": "Shieldon"
   },
   {
     "type": "pokemon",
@@ -877,7 +877,7 @@
   },
   {
     "type": "pokemon",
-    "name": "BastiodonF[h]"
+    "name": "Bastiodon"
   },
   {
     "type": "pokemon",
@@ -1009,7 +1009,7 @@
   },
   {
     "type": "pokemon",
-    "name": "Nidoran♀"
+    "name": "Nidoran"
   },
   {
     "type": "pokemon",
@@ -1114,10 +1114,6 @@
   {
     "type": "pokemon",
     "name": "Armarouge"
-  },
-  {
-    "type": "pokemon",
-    "name": "Nidoran♂"
   },
   {
     "type": "pokemon",
@@ -5890,7 +5886,7 @@
   },
   {
     "type": "drug",
-    "name": "Lupron Depot (ped)"
+    "name": "Lupron Depot"
   },
   {
     "type": "drug",
@@ -5962,7 +5958,7 @@
   },
   {
     "type": "drug",
-    "name": "Mepron suspension"
+    "name": "Mepron"
   },
   {
     "type": "drug",
@@ -6206,7 +6202,7 @@
   },
   {
     "type": "drug",
-    "name": "Olpruva suspension"
+    "name": "Olpruva"
   },
   {
     "type": "drug",
@@ -6518,27 +6514,11 @@
   },
   {
     "type": "drug",
-    "name": "Prodigy Insulin Syringes"
+    "name": "Proglycem"
   },
   {
     "type": "drug",
-    "name": "Prodigy No Coding Blood Glucose Strips"
-  },
-  {
-    "type": "drug",
-    "name": "Prodigy Preferred Blood Glucose Monitor"
-  },
-  {
-    "type": "drug",
-    "name": "Prodigy Twist Top Lancets 28G"
-  },
-  {
-    "type": "drug",
-    "name": "Proglycem oral suspension"
-  },
-  {
-    "type": "drug",
-    "name": "Prolastin C"
+    "name": "Prolastin"
   },
   {
     "type": "drug",
@@ -6555,10 +6535,6 @@
   {
     "type": "drug",
     "name": "Promote"
-  },
-  {
-    "type": "drug",
-    "name": "Promote with Fiber"
   },
   {
     "type": "drug",
@@ -6582,11 +6558,7 @@
   },
   {
     "type": "drug",
-    "name": "PuraPly AM Wound Dressing"
-  },
-  {
-    "type": "drug",
-    "name": "PuraPly Wound Dressing"
+    "name": "PuraPly"
   },
   {
     "type": "drug",
@@ -6614,7 +6586,7 @@
   },
   {
     "type": "drug",
-    "name": "Qutenza Patch"
+    "name": "Qutenza"
   },
   {
     "type": "drug",
@@ -6622,11 +6594,7 @@
   },
   {
     "type": "drug",
-    "name": "Radicava iv"
-  },
-  {
-    "type": "drug",
-    "name": "Radicava ORS"
+    "name": "Radicava"
   },
   {
     "type": "drug",
@@ -6634,7 +6602,7 @@
   },
   {
     "type": "drug",
-    "name": "Ravicti Liquid"
+    "name": "Ravicti"
   },
   {
     "type": "drug",
@@ -6642,11 +6610,7 @@
   },
   {
     "type": "drug",
-    "name": "RCF (Ross Carbohydrate Free)"
-  },
-  {
-    "type": "drug",
-    "name": "Rebif subcutaneous"
+    "name": "Rebif"
   },
   {
     "type": "drug",
@@ -6662,11 +6626,11 @@
   },
   {
     "type": "drug",
-    "name": "Recombinate rAHF"
+    "name": "Recombinate"
   },
   {
     "type": "drug",
-    "name": "Recombivax Hb"
+    "name": "Recombivax"
   },
   {
     "type": "drug",
@@ -6674,7 +6638,7 @@
   },
   {
     "type": "drug",
-    "name": "Rectiv ointment"
+    "name": "Rectiv"
   },
   {
     "type": "drug",
