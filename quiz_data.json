@@ -4093,10 +4093,6 @@
     "name": "Genesect"
   },
   {
-    "type": "Type",
-    "name": "Brand Name"
-  },
-  {
     "type": "drug",
     "name": "Vigadrone"
   },
@@ -4126,7 +4122,7 @@
   },
   {
     "type": "drug",
-    "name": "Acthar Gel"
+    "name": "Acthar"
   },
   {
     "type": "drug",
@@ -4242,7 +4238,7 @@
   },
   {
     "type": "drug",
-    "name": "Alphagan P"
+    "name": "Alphagan"
   },
   {
     "type": "drug",
@@ -4742,7 +4738,7 @@
   },
   {
     "type": "drug",
-    "name": "Cyclinex-1"
+    "name": "Cyclinex"
   },
   {
     "type": "drug",
@@ -4882,7 +4878,7 @@
   },
   {
     "type": "drug",
-    "name": "Dymista Nasal Spray"
+    "name": "Dymista"
   },
   {
     "type": "drug",
@@ -4986,7 +4982,7 @@
   },
   {
     "type": "drug",
-    "name": "Engerix-B"
+    "name": "Engerix"
   },
   {
     "type": "drug",
@@ -5003,10 +4999,6 @@
   {
     "type": "drug",
     "name": "Ensure"
-  },
-  {
-    "type": "drug",
-    "name": "Ensure Plus"
   },
   {
     "type": "drug",
@@ -5134,7 +5126,7 @@
   },
   {
     "type": "drug",
-    "name": "Fasenra Pen"
+    "name": "Fasenra"
   },
   {
     "type": "drug",
@@ -5234,11 +5226,11 @@
   },
   {
     "type": "drug",
-    "name": "Gamunex-C"
+    "name": "Gamunex"
   },
   {
     "type": "drug",
-    "name": "Gardasil 9"
+    "name": "Gardasil"
   },
   {
     "type": "drug",
@@ -5354,7 +5346,7 @@
   },
   {
     "type": "drug",
-    "name": "Hizentra vial 20%"
+    "name": "Hizentra"
   },
   {
     "type": "drug",
@@ -5386,7 +5378,7 @@
   },
   {
     "type": "drug",
-    "name": "HyperHEP B"
+    "name": "HyperHEP"
   },
   {
     "type": "drug",
@@ -5742,7 +5734,7 @@
   },
   {
     "type": "drug",
-    "name": "Krystexxa IV"
+    "name": "Krystexxa"
   },
   {
     "type": "drug",
@@ -5898,7 +5890,7 @@
   },
   {
     "type": "drug",
-    "name": "Luzu Cream"
+    "name": "Luzu"
   },
   {
     "type": "drug",
@@ -6054,7 +6046,7 @@
   },
   {
     "type": "drug",
-    "name": "Nepro with Carb Steady"
+    "name": "Nepro"
   },
   {
     "type": "drug",
@@ -6070,7 +6062,7 @@
   },
   {
     "type": "drug",
-    "name": "Neupro Transdermal System"
+    "name": "Neupro"
   },
   {
     "type": "drug",
@@ -6090,7 +6082,7 @@
   },
   {
     "type": "drug",
-    "name": "Noritate Cream"
+    "name": "Noritate"
   },
   {
     "type": "drug",
@@ -6786,7 +6778,7 @@
   },
   {
     "type": "drug",
-    "name": "Rybrevant in combination with Lazcluze"
+    "name": "Rybrevant"
   },
   {
     "type": "drug",
@@ -6890,7 +6882,7 @@
   },
   {
     "type": "drug",
-    "name": "Similac PM 60/40"
+    "name": "Similac"
   },
   {
     "type": "drug",
@@ -7246,10 +7238,6 @@
   },
   {
     "type": "drug",
-    "name": "Triumeq PD"
-  },
-  {
-    "type": "drug",
     "name": "Trokendi"
   },
   {
@@ -7302,7 +7290,7 @@
   },
   {
     "type": "drug",
-    "name": "Tysabri Vial"
+    "name": "Tysabri"
   },
   {
     "type": "drug",
@@ -7314,7 +7302,7 @@
   },
   {
     "type": "drug",
-    "name": "Uceris rectal foam"
+    "name": "Uceris"
   },
   {
     "type": "drug",
@@ -7802,7 +7790,6 @@
   },
   {
     "type": "drug",
-    "name": "Zynyz",
-    "": ""
+    "name": "Zynyz"
   }
 ]
