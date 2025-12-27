@@ -1,0 +1,7844 @@
+[
+  {
+    "type": "pokemon",
+    "name": "Bulbasaur"
+  },
+  {
+    "type": "pokemon",
+    "name": "Chikorita"
+  },
+  {
+    "type": "pokemon",
+    "name": "Treecko"
+  },
+  {
+    "type": "pokemon",
+    "name": "Turtwig"
+  },
+  {
+    "type": "pokemon",
+    "name": "Victini"
+  },
+  {
+    "type": "pokemon",
+    "name": "Chespin"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rowlet"
+  },
+  {
+    "type": "pokemon",
+    "name": "Grookey"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sprigatito"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ivysaur"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bayleef"
+  },
+  {
+    "type": "pokemon",
+    "name": "Grovyle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Grotle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Snivy"
+  },
+  {
+    "type": "pokemon",
+    "name": "Quilladin"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dartrix"
+  },
+  {
+    "type": "pokemon",
+    "name": "Thwackey"
+  },
+  {
+    "type": "pokemon",
+    "name": "Floragato"
+  },
+  {
+    "type": "pokemon",
+    "name": "Venusaur"
+  },
+  {
+    "type": "pokemon",
+    "name": "Meganium"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sceptile"
+  },
+  {
+    "type": "pokemon",
+    "name": "Torterra"
+  },
+  {
+    "type": "pokemon",
+    "name": "Servine"
+  },
+  {
+    "type": "pokemon",
+    "name": "Chesnaught"
+  },
+  {
+    "type": "pokemon",
+    "name": "Decidueye"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rillaboom"
+  },
+  {
+    "type": "pokemon",
+    "name": "Meowscarada"
+  },
+  {
+    "type": "pokemon",
+    "name": "Charmander"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cyndaquil"
+  },
+  {
+    "type": "pokemon",
+    "name": "Torchic"
+  },
+  {
+    "type": "pokemon",
+    "name": "Chimchar"
+  },
+  {
+    "type": "pokemon",
+    "name": "Serperior"
+  },
+  {
+    "type": "pokemon",
+    "name": "Fennekin"
+  },
+  {
+    "type": "pokemon",
+    "name": "Litten"
+  },
+  {
+    "type": "pokemon",
+    "name": "Scorbunny"
+  },
+  {
+    "type": "pokemon",
+    "name": "Fuecoco"
+  },
+  {
+    "type": "pokemon",
+    "name": "Charmeleon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Quilava"
+  },
+  {
+    "type": "pokemon",
+    "name": "Combusken"
+  },
+  {
+    "type": "pokemon",
+    "name": "Monferno"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tepig"
+  },
+  {
+    "type": "pokemon",
+    "name": "Braixen"
+  },
+  {
+    "type": "pokemon",
+    "name": "Torracat"
+  },
+  {
+    "type": "pokemon",
+    "name": "Raboot"
+  },
+  {
+    "type": "pokemon",
+    "name": "Crocalor"
+  },
+  {
+    "type": "pokemon",
+    "name": "Charizard"
+  },
+  {
+    "type": "pokemon",
+    "name": "Typhlosion"
+  },
+  {
+    "type": "pokemon",
+    "name": "Blaziken"
+  },
+  {
+    "type": "pokemon",
+    "name": "Infernape"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pignite"
+  },
+  {
+    "type": "pokemon",
+    "name": "Delphox"
+  },
+  {
+    "type": "pokemon",
+    "name": "Incineroar"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cinderace"
+  },
+  {
+    "type": "pokemon",
+    "name": "Skeledirge"
+  },
+  {
+    "type": "pokemon",
+    "name": "Squirtle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Totodile"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mudkip"
+  },
+  {
+    "type": "pokemon",
+    "name": "Piplup"
+  },
+  {
+    "type": "pokemon",
+    "name": "Emboar"
+  },
+  {
+    "type": "pokemon",
+    "name": "Froakie"
+  },
+  {
+    "type": "pokemon",
+    "name": "Popplio"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sobble"
+  },
+  {
+    "type": "pokemon",
+    "name": "Quaxly"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wartortle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Croconaw"
+  },
+  {
+    "type": "pokemon",
+    "name": "Marshtomp"
+  },
+  {
+    "type": "pokemon",
+    "name": "Prinplup"
+  },
+  {
+    "type": "pokemon",
+    "name": "Oshawott"
+  },
+  {
+    "type": "pokemon",
+    "name": "Frogadier"
+  },
+  {
+    "type": "pokemon",
+    "name": "Brionne"
+  },
+  {
+    "type": "pokemon",
+    "name": "Drizzile"
+  },
+  {
+    "type": "pokemon",
+    "name": "Quaxwell"
+  },
+  {
+    "type": "pokemon",
+    "name": "Blastoise"
+  },
+  {
+    "type": "pokemon",
+    "name": "Feraligatr"
+  },
+  {
+    "type": "pokemon",
+    "name": "Swampert"
+  },
+  {
+    "type": "pokemon",
+    "name": "Empoleon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dewott"
+  },
+  {
+    "type": "pokemon",
+    "name": "Greninja"
+  },
+  {
+    "type": "pokemon",
+    "name": "Primarina"
+  },
+  {
+    "type": "pokemon",
+    "name": "Inteleon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Quaquaval"
+  },
+  {
+    "type": "pokemon",
+    "name": "Caterpie"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sentret"
+  },
+  {
+    "type": "pokemon",
+    "name": "Poochyena"
+  },
+  {
+    "type": "pokemon",
+    "name": "Starly"
+  },
+  {
+    "type": "pokemon",
+    "name": "Samurott"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bunnelby"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pikipek"
+  },
+  {
+    "type": "pokemon",
+    "name": "Skwovet"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lechonk"
+  },
+  {
+    "type": "pokemon",
+    "name": "Metapod"
+  },
+  {
+    "type": "pokemon",
+    "name": "Furret"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mightyena"
+  },
+  {
+    "type": "pokemon",
+    "name": "Staravia"
+  },
+  {
+    "type": "pokemon",
+    "name": "Patrat"
+  },
+  {
+    "type": "pokemon",
+    "name": "Diggersby"
+  },
+  {
+    "type": "pokemon",
+    "name": "Trumbeak"
+  },
+  {
+    "type": "pokemon",
+    "name": "Greedent"
+  },
+  {
+    "type": "pokemon",
+    "name": "Oinkologne"
+  },
+  {
+    "type": "pokemon",
+    "name": "Butterfree"
+  },
+  {
+    "type": "pokemon",
+    "name": "Hoothoot"
+  },
+  {
+    "type": "pokemon",
+    "name": "Zigzagoon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Staraptor"
+  },
+  {
+    "type": "pokemon",
+    "name": "Watchog"
+  },
+  {
+    "type": "pokemon",
+    "name": "Fletchling"
+  },
+  {
+    "type": "pokemon",
+    "name": "Toucannon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rookidee"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tarountula"
+  },
+  {
+    "type": "pokemon",
+    "name": "Weedle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Noctowl"
+  },
+  {
+    "type": "pokemon",
+    "name": "Linoone"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bidoof"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lillipup"
+  },
+  {
+    "type": "pokemon",
+    "name": "Fletchinder"
+  },
+  {
+    "type": "pokemon",
+    "name": "Yungoos"
+  },
+  {
+    "type": "pokemon",
+    "name": "Corvisquire"
+  },
+  {
+    "type": "pokemon",
+    "name": "Spidops"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kakuna"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ledyba"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wurmple"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bibarel"
+  },
+  {
+    "type": "pokemon",
+    "name": "Herdier"
+  },
+  {
+    "type": "pokemon",
+    "name": "Talonflame"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gumshoos"
+  },
+  {
+    "type": "pokemon",
+    "name": "Corviknight"
+  },
+  {
+    "type": "pokemon",
+    "name": "Nymble"
+  },
+  {
+    "type": "pokemon",
+    "name": "Beedrill"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ledian"
+  },
+  {
+    "type": "pokemon",
+    "name": "Silcoon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kricketot"
+  },
+  {
+    "type": "pokemon",
+    "name": "Stoutland"
+  },
+  {
+    "type": "pokemon",
+    "name": "Scatterbug"
+  },
+  {
+    "type": "pokemon",
+    "name": "Grubbin"
+  },
+  {
+    "type": "pokemon",
+    "name": "Blipbug"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lokix"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pidgey"
+  },
+  {
+    "type": "pokemon",
+    "name": "Spinarak"
+  },
+  {
+    "type": "pokemon",
+    "name": "Beautifly"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kricketune"
+  },
+  {
+    "type": "pokemon",
+    "name": "Purrloin"
+  },
+  {
+    "type": "pokemon",
+    "name": "Spewpa"
+  },
+  {
+    "type": "pokemon",
+    "name": "Charjabug"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dottler"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pawmi"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pidgeotto"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ariados"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cascoon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Shinx"
+  },
+  {
+    "type": "pokemon",
+    "name": "Liepard"
+  },
+  {
+    "type": "pokemon",
+    "name": "Vivillon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Vikavolt"
+  },
+  {
+    "type": "pokemon",
+    "name": "Orbeetle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pawmo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pidgeot"
+  },
+  {
+    "type": "pokemon",
+    "name": "Crobat"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dustox"
+  },
+  {
+    "type": "pokemon",
+    "name": "Luxio"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pansage"
+  },
+  {
+    "type": "pokemon",
+    "name": "Litleo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Crabrawler"
+  },
+  {
+    "type": "pokemon",
+    "name": "Nickit"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pawmot"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rattata"
+  },
+  {
+    "type": "pokemon",
+    "name": "Chinchou"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lotad"
+  },
+  {
+    "type": "pokemon",
+    "name": "Luxray"
+  },
+  {
+    "type": "pokemon",
+    "name": "Simisage"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pyroar"
+  },
+  {
+    "type": "pokemon",
+    "name": "Crabominable"
+  },
+  {
+    "type": "pokemon",
+    "name": "Thievul"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tandemaus"
+  },
+  {
+    "type": "pokemon",
+    "name": "Raticate"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lanturn"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lombre"
+  },
+  {
+    "type": "pokemon",
+    "name": "Budew"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pansear"
+  },
+  {
+    "type": "pokemon",
+    "name": "Flabébé"
+  },
+  {
+    "type": "pokemon",
+    "name": "Oricorio"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gossifleur"
+  },
+  {
+    "type": "pokemon",
+    "name": "Maushold"
+  },
+  {
+    "type": "pokemon",
+    "name": "Spearow"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pichu"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ludicolo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Roserade"
+  },
+  {
+    "type": "pokemon",
+    "name": "Simisear"
+  },
+  {
+    "type": "pokemon",
+    "name": "Floette"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cutiefly"
+  },
+  {
+    "type": "pokemon",
+    "name": "Eldegoss"
+  },
+  {
+    "type": "pokemon",
+    "name": "Fidough"
+  },
+  {
+    "type": "pokemon",
+    "name": "Fearow"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cleffa"
+  },
+  {
+    "type": "pokemon",
+    "name": "Seedot"
+  },
+  {
+    "type": "pokemon",
+    "name": "CranidosF[h]"
+  },
+  {
+    "type": "pokemon",
+    "name": "Panpour"
+  },
+  {
+    "type": "pokemon",
+    "name": "Florges"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ribombee"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wooloo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dachsbun"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ekans"
+  },
+  {
+    "type": "pokemon",
+    "name": "Igglybuff"
+  },
+  {
+    "type": "pokemon",
+    "name": "Nuzleaf"
+  },
+  {
+    "type": "pokemon",
+    "name": "RampardosF[h]"
+  },
+  {
+    "type": "pokemon",
+    "name": "Simipour"
+  },
+  {
+    "type": "pokemon",
+    "name": "Skiddo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rockruff"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dubwool"
+  },
+  {
+    "type": "pokemon",
+    "name": "Smoliv"
+  },
+  {
+    "type": "pokemon",
+    "name": "Arbok"
+  },
+  {
+    "type": "pokemon",
+    "name": "Togepi"
+  },
+  {
+    "type": "pokemon",
+    "name": "Shiftry"
+  },
+  {
+    "type": "pokemon",
+    "name": "ShieldonF[h]"
+  },
+  {
+    "type": "pokemon",
+    "name": "Munna"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gogoat"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lycanroc"
+  },
+  {
+    "type": "pokemon",
+    "name": "Chewtle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dolliv"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pikachu"
+  },
+  {
+    "type": "pokemon",
+    "name": "Togetic"
+  },
+  {
+    "type": "pokemon",
+    "name": "Taillow"
+  },
+  {
+    "type": "pokemon",
+    "name": "BastiodonF[h]"
+  },
+  {
+    "type": "pokemon",
+    "name": "Musharna"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pancham"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wishiwashi"
+  },
+  {
+    "type": "pokemon",
+    "name": "Drednaw"
+  },
+  {
+    "type": "pokemon",
+    "name": "Arboliva"
+  },
+  {
+    "type": "pokemon",
+    "name": "Raichu"
+  },
+  {
+    "type": "pokemon",
+    "name": "Natu"
+  },
+  {
+    "type": "pokemon",
+    "name": "Swellow"
+  },
+  {
+    "type": "pokemon",
+    "name": "Burmy"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pidove"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pangoro"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mareanie"
+  },
+  {
+    "type": "pokemon",
+    "name": "Yamper"
+  },
+  {
+    "type": "pokemon",
+    "name": "Squawkabilly"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sandshrew"
+  },
+  {
+    "type": "pokemon",
+    "name": "Xatu"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wingull"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wormadam"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tranquill"
+  },
+  {
+    "type": "pokemon",
+    "name": "Furfrou"
+  },
+  {
+    "type": "pokemon",
+    "name": "Toxapex"
+  },
+  {
+    "type": "pokemon",
+    "name": "Boltund"
+  },
+  {
+    "type": "pokemon",
+    "name": "Nacli"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sandslash"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mareep"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pelipper"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mothim"
+  },
+  {
+    "type": "pokemon",
+    "name": "Unfezant"
+  },
+  {
+    "type": "pokemon",
+    "name": "Espurr"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mudbray"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rolycoly"
+  },
+  {
+    "type": "pokemon",
+    "name": "Naclstack"
+  },
+  {
+    "type": "pokemon",
+    "name": "Nidoran♀"
+  },
+  {
+    "type": "pokemon",
+    "name": "Flaaffy"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ralts"
+  },
+  {
+    "type": "pokemon",
+    "name": "Combee"
+  },
+  {
+    "type": "pokemon",
+    "name": "Blitzle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Meowstic"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mudsdale"
+  },
+  {
+    "type": "pokemon",
+    "name": "Carkol"
+  },
+  {
+    "type": "pokemon",
+    "name": "Garganacl"
+  },
+  {
+    "type": "pokemon",
+    "name": "Nidorina"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ampharos"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kirlia"
+  },
+  {
+    "type": "pokemon",
+    "name": "Vespiquen"
+  },
+  {
+    "type": "pokemon",
+    "name": "Zebstrika"
+  },
+  {
+    "type": "pokemon",
+    "name": "Honedge"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dewpider"
+  },
+  {
+    "type": "pokemon",
+    "name": "Coalossal"
+  },
+  {
+    "type": "pokemon",
+    "name": "Charcadet"
+  },
+  {
+    "type": "pokemon",
+    "name": "Nidoqueen"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bellossom"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gardevoir"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pachirisu"
+  },
+  {
+    "type": "pokemon",
+    "name": "Roggenrola"
+  },
+  {
+    "type": "pokemon",
+    "name": "Doublade"
+  },
+  {
+    "type": "pokemon",
+    "name": "Araquanid"
+  },
+  {
+    "type": "pokemon",
+    "name": "Applin"
+  },
+  {
+    "type": "pokemon",
+    "name": "Armarouge"
+  },
+  {
+    "type": "pokemon",
+    "name": "Nidoran♂"
+  },
+  {
+    "type": "pokemon",
+    "name": "Marill"
+  },
+  {
+    "type": "pokemon",
+    "name": "Surskit"
+  },
+  {
+    "type": "pokemon",
+    "name": "Buizel"
+  },
+  {
+    "type": "pokemon",
+    "name": "Boldore"
+  },
+  {
+    "type": "pokemon",
+    "name": "Aegislash"
+  },
+  {
+    "type": "pokemon",
+    "name": "Fomantis"
+  },
+  {
+    "type": "pokemon",
+    "name": "Flapple"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ceruledge"
+  },
+  {
+    "type": "pokemon",
+    "name": "Nidorino"
+  },
+  {
+    "type": "pokemon",
+    "name": "Azumarill"
+  },
+  {
+    "type": "pokemon",
+    "name": "Masquerain"
+  },
+  {
+    "type": "pokemon",
+    "name": "Floatzel"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gigalith"
+  },
+  {
+    "type": "pokemon",
+    "name": "Spritzee"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lurantis"
+  },
+  {
+    "type": "pokemon",
+    "name": "Appletun"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tadbulb"
+  },
+  {
+    "type": "pokemon",
+    "name": "Nidoking"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sudowoodo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Shroomish"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cherubi"
+  },
+  {
+    "type": "pokemon",
+    "name": "Woobat"
+  },
+  {
+    "type": "pokemon",
+    "name": "Aromatisse"
+  },
+  {
+    "type": "pokemon",
+    "name": "Morelull"
+  },
+  {
+    "type": "pokemon",
+    "name": "Silicobra"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bellibolt"
+  },
+  {
+    "type": "pokemon",
+    "name": "Clefairy"
+  },
+  {
+    "type": "pokemon",
+    "name": "Politoed"
+  },
+  {
+    "type": "pokemon",
+    "name": "Breloom"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cherrim"
+  },
+  {
+    "type": "pokemon",
+    "name": "Swoobat"
+  },
+  {
+    "type": "pokemon",
+    "name": "Swirlix"
+  },
+  {
+    "type": "pokemon",
+    "name": "Shiinotic"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sandaconda"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wattrel"
+  },
+  {
+    "type": "pokemon",
+    "name": "Clefable"
+  },
+  {
+    "type": "pokemon",
+    "name": "Hoppip"
+  },
+  {
+    "type": "pokemon",
+    "name": "Slakoth"
+  },
+  {
+    "type": "pokemon",
+    "name": "Shellos"
+  },
+  {
+    "type": "pokemon",
+    "name": "Drilbur"
+  },
+  {
+    "type": "pokemon",
+    "name": "Slurpuff"
+  },
+  {
+    "type": "pokemon",
+    "name": "Salandit"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cramorant"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kilowattrel"
+  },
+  {
+    "type": "pokemon",
+    "name": "Vulpix"
+  },
+  {
+    "type": "pokemon",
+    "name": "Skiploom"
+  },
+  {
+    "type": "pokemon",
+    "name": "Vigoroth"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gastrodon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Excadrill"
+  },
+  {
+    "type": "pokemon",
+    "name": "Inkay"
+  },
+  {
+    "type": "pokemon",
+    "name": "Salazzle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Arrokuda"
+  },
+  {
+    "type": "pokemon",
+    "name": "Maschiff"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ninetales"
+  },
+  {
+    "type": "pokemon",
+    "name": "Jumpluff"
+  },
+  {
+    "type": "pokemon",
+    "name": "Slaking"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ambipom"
+  },
+  {
+    "type": "pokemon",
+    "name": "Audino"
+  },
+  {
+    "type": "pokemon",
+    "name": "Malamar"
+  },
+  {
+    "type": "pokemon",
+    "name": "Stufful"
+  },
+  {
+    "type": "pokemon",
+    "name": "Barraskewda"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mabosstiff"
+  },
+  {
+    "type": "pokemon",
+    "name": "Jigglypuff"
+  },
+  {
+    "type": "pokemon",
+    "name": "Aipom"
+  },
+  {
+    "type": "pokemon",
+    "name": "Nincada"
+  },
+  {
+    "type": "pokemon",
+    "name": "Drifloon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Timburr"
+  },
+  {
+    "type": "pokemon",
+    "name": "Binacle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bewear"
+  },
+  {
+    "type": "pokemon",
+    "name": "Toxel"
+  },
+  {
+    "type": "pokemon",
+    "name": "Shroodle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wigglytuff"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sunkern"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ninjask"
+  },
+  {
+    "type": "pokemon",
+    "name": "Drifblim"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gurdurr"
+  },
+  {
+    "type": "pokemon",
+    "name": "Barbaracle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bounsweet"
+  },
+  {
+    "type": "pokemon",
+    "name": "Toxtricity"
+  },
+  {
+    "type": "pokemon",
+    "name": "Grafaiai"
+  },
+  {
+    "type": "pokemon",
+    "name": "Zubat"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sunflora"
+  },
+  {
+    "type": "pokemon",
+    "name": "Shedinja"
+  },
+  {
+    "type": "pokemon",
+    "name": "Buneary"
+  },
+  {
+    "type": "pokemon",
+    "name": "Conkeldurr"
+  },
+  {
+    "type": "pokemon",
+    "name": "Skrelp"
+  },
+  {
+    "type": "pokemon",
+    "name": "Steenee"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sizzlipede"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bramblin"
+  },
+  {
+    "type": "pokemon",
+    "name": "Golbat"
+  },
+  {
+    "type": "pokemon",
+    "name": "Yanma"
+  },
+  {
+    "type": "pokemon",
+    "name": "Whismur"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lopunny"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tympole"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dragalge"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tsareena"
+  },
+  {
+    "type": "pokemon",
+    "name": "Centiskorch"
+  },
+  {
+    "type": "pokemon",
+    "name": "Brambleghast"
+  },
+  {
+    "type": "pokemon",
+    "name": "Oddish"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wooper"
+  },
+  {
+    "type": "pokemon",
+    "name": "Loudred"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mismagius"
+  },
+  {
+    "type": "pokemon",
+    "name": "Palpitoad"
+  },
+  {
+    "type": "pokemon",
+    "name": "Clauncher"
+  },
+  {
+    "type": "pokemon",
+    "name": "Comfey"
+  },
+  {
+    "type": "pokemon",
+    "name": "Clobbopus"
+  },
+  {
+    "type": "pokemon",
+    "name": "Toedscool"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gloom"
+  },
+  {
+    "type": "pokemon",
+    "name": "Quagsire"
+  },
+  {
+    "type": "pokemon",
+    "name": "Exploud"
+  },
+  {
+    "type": "pokemon",
+    "name": "Honchkrow"
+  },
+  {
+    "type": "pokemon",
+    "name": "Seismitoad"
+  },
+  {
+    "type": "pokemon",
+    "name": "Clawitzer"
+  },
+  {
+    "type": "pokemon",
+    "name": "Oranguru"
+  },
+  {
+    "type": "pokemon",
+    "name": "Grapploct"
+  },
+  {
+    "type": "pokemon",
+    "name": "Toedscruel"
+  },
+  {
+    "type": "pokemon",
+    "name": "Vileplume"
+  },
+  {
+    "type": "pokemon",
+    "name": "Espeon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Makuhita"
+  },
+  {
+    "type": "pokemon",
+    "name": "Glameow"
+  },
+  {
+    "type": "pokemon",
+    "name": "Throh"
+  },
+  {
+    "type": "pokemon",
+    "name": "Helioptile"
+  },
+  {
+    "type": "pokemon",
+    "name": "Passimian"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sinistea"
+  },
+  {
+    "type": "pokemon",
+    "name": "Klawf"
+  },
+  {
+    "type": "pokemon",
+    "name": "Paras"
+  },
+  {
+    "type": "pokemon",
+    "name": "Umbreon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Hariyama"
+  },
+  {
+    "type": "pokemon",
+    "name": "Purugly"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sawk"
+  },
+  {
+    "type": "pokemon",
+    "name": "Heliolisk"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wimpod"
+  },
+  {
+    "type": "pokemon",
+    "name": "Polteageist"
+  },
+  {
+    "type": "pokemon",
+    "name": "Capsakid"
+  },
+  {
+    "type": "pokemon",
+    "name": "Parasect"
+  },
+  {
+    "type": "pokemon",
+    "name": "Murkrow"
+  },
+  {
+    "type": "pokemon",
+    "name": "Azurill"
+  },
+  {
+    "type": "pokemon",
+    "name": "Chingling"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sewaddle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tyrunt"
+  },
+  {
+    "type": "pokemon",
+    "name": "Golisopod"
+  },
+  {
+    "type": "pokemon",
+    "name": "Hatenna"
+  },
+  {
+    "type": "pokemon",
+    "name": "Scovillain"
+  },
+  {
+    "type": "pokemon",
+    "name": "Venonat"
+  },
+  {
+    "type": "pokemon",
+    "name": "Slowking"
+  },
+  {
+    "type": "pokemon",
+    "name": "Nosepass"
+  },
+  {
+    "type": "pokemon",
+    "name": "Stunky"
+  },
+  {
+    "type": "pokemon",
+    "name": "Swadloon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tyrantrum"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sandygast"
+  },
+  {
+    "type": "pokemon",
+    "name": "Hattrem"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rellor"
+  },
+  {
+    "type": "pokemon",
+    "name": "Venomoth"
+  },
+  {
+    "type": "pokemon",
+    "name": "Misdreavus"
+  },
+  {
+    "type": "pokemon",
+    "name": "Skitty"
+  },
+  {
+    "type": "pokemon",
+    "name": "Skuntank"
+  },
+  {
+    "type": "pokemon",
+    "name": "Leavanny"
+  },
+  {
+    "type": "pokemon",
+    "name": "Amaura"
+  },
+  {
+    "type": "pokemon",
+    "name": "Palossand"
+  },
+  {
+    "type": "pokemon",
+    "name": "Hatterene"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rabsca"
+  },
+  {
+    "type": "pokemon",
+    "name": "Diglett"
+  },
+  {
+    "type": "pokemon",
+    "name": "Unown"
+  },
+  {
+    "type": "pokemon",
+    "name": "Delcatty"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bronzor"
+  },
+  {
+    "type": "pokemon",
+    "name": "Venipede"
+  },
+  {
+    "type": "pokemon",
+    "name": "Aurorus"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pyukumuku"
+  },
+  {
+    "type": "pokemon",
+    "name": "Impidimp"
+  },
+  {
+    "type": "pokemon",
+    "name": "Flittle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dugtrio"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wobbuffet"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sableye"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bronzong"
+  },
+  {
+    "type": "pokemon",
+    "name": "Whirlipede"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sylveon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Type: Null"
+  },
+  {
+    "type": "pokemon",
+    "name": "Morgrem"
+  },
+  {
+    "type": "pokemon",
+    "name": "Espathra"
+  },
+  {
+    "type": "pokemon",
+    "name": "Meowth"
+  },
+  {
+    "type": "pokemon",
+    "name": "Girafarig"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mawile"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bonsly"
+  },
+  {
+    "type": "pokemon",
+    "name": "Scolipede"
+  },
+  {
+    "type": "pokemon",
+    "name": "Hawlucha"
+  },
+  {
+    "type": "pokemon",
+    "name": "Silvally"
+  },
+  {
+    "type": "pokemon",
+    "name": "Grimmsnarl"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tinkatink"
+  },
+  {
+    "type": "pokemon",
+    "name": "Persian"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pineco"
+  },
+  {
+    "type": "pokemon",
+    "name": "Aron"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mime Jr."
+  },
+  {
+    "type": "pokemon",
+    "name": "Cottonee"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dedenne"
+  },
+  {
+    "type": "pokemon",
+    "name": "Minior"
+  },
+  {
+    "type": "pokemon",
+    "name": "Obstagoon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tinkatuff"
+  },
+  {
+    "type": "pokemon",
+    "name": "Psyduck"
+  },
+  {
+    "type": "pokemon",
+    "name": "Forretress"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lairon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Happiny"
+  },
+  {
+    "type": "pokemon",
+    "name": "Whimsicott"
+  },
+  {
+    "type": "pokemon",
+    "name": "Carbink"
+  },
+  {
+    "type": "pokemon",
+    "name": "Komala"
+  },
+  {
+    "type": "pokemon",
+    "name": "Perrserker"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tinkaton"
+  },
+  {
+    "type": "pokemon",
+    "name": "Golduck"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dunsparce"
+  },
+  {
+    "type": "pokemon",
+    "name": "Aggron"
+  },
+  {
+    "type": "pokemon",
+    "name": "Chatot"
+  },
+  {
+    "type": "pokemon",
+    "name": "Petilil"
+  },
+  {
+    "type": "pokemon",
+    "name": "Goomy"
+  },
+  {
+    "type": "pokemon",
+    "name": "Turtonator"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cursola"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wiglett"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mankey"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gligar"
+  },
+  {
+    "type": "pokemon",
+    "name": "Meditite"
+  },
+  {
+    "type": "pokemon",
+    "name": "Spiritomb"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lilligant"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sliggoo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Togedemaru"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sirfetch'd"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wugtrio"
+  },
+  {
+    "type": "pokemon",
+    "name": "Primeape"
+  },
+  {
+    "type": "pokemon",
+    "name": "Steelix"
+  },
+  {
+    "type": "pokemon",
+    "name": "Medicham"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gible"
+  },
+  {
+    "type": "pokemon",
+    "name": "Basculin"
+  },
+  {
+    "type": "pokemon",
+    "name": "Goodra"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mimikyu"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mr. Rime"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bombirdier"
+  },
+  {
+    "type": "pokemon",
+    "name": "Growlithe"
+  },
+  {
+    "type": "pokemon",
+    "name": "Snubbull"
+  },
+  {
+    "type": "pokemon",
+    "name": "Electrike"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gabite"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sandile"
+  },
+  {
+    "type": "pokemon",
+    "name": "Klefki"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bruxish"
+  },
+  {
+    "type": "pokemon",
+    "name": "Runerigus"
+  },
+  {
+    "type": "pokemon",
+    "name": "Finizen"
+  },
+  {
+    "type": "pokemon",
+    "name": "Arcanine"
+  },
+  {
+    "type": "pokemon",
+    "name": "Granbull"
+  },
+  {
+    "type": "pokemon",
+    "name": "Manectric"
+  },
+  {
+    "type": "pokemon",
+    "name": "Garchomp"
+  },
+  {
+    "type": "pokemon",
+    "name": "Krokorok"
+  },
+  {
+    "type": "pokemon",
+    "name": "Phantump"
+  },
+  {
+    "type": "pokemon",
+    "name": "Drampa"
+  },
+  {
+    "type": "pokemon",
+    "name": "Milcery"
+  },
+  {
+    "type": "pokemon",
+    "name": "Palafin"
+  },
+  {
+    "type": "pokemon",
+    "name": "Poliwag"
+  },
+  {
+    "type": "pokemon",
+    "name": "Qwilfish"
+  },
+  {
+    "type": "pokemon",
+    "name": "Plusle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Munchlax"
+  },
+  {
+    "type": "pokemon",
+    "name": "Krookodile"
+  },
+  {
+    "type": "pokemon",
+    "name": "Trevenant"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dhelmise"
+  },
+  {
+    "type": "pokemon",
+    "name": "Alcremie"
+  },
+  {
+    "type": "pokemon",
+    "name": "Varoom"
+  },
+  {
+    "type": "pokemon",
+    "name": "Poliwhirl"
+  },
+  {
+    "type": "pokemon",
+    "name": "Scizor"
+  },
+  {
+    "type": "pokemon",
+    "name": "Minun"
+  },
+  {
+    "type": "pokemon",
+    "name": "Riolu"
+  },
+  {
+    "type": "pokemon",
+    "name": "Darumaka"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pumpkaboo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Jangmo-o"
+  },
+  {
+    "type": "pokemon",
+    "name": "Falinks"
+  },
+  {
+    "type": "pokemon",
+    "name": "Revavroom"
+  },
+  {
+    "type": "pokemon",
+    "name": "Poliwrath"
+  },
+  {
+    "type": "pokemon",
+    "name": "Shuckle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Volbeat"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lucario"
+  },
+  {
+    "type": "pokemon",
+    "name": "Darmanitan"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gourgeist"
+  },
+  {
+    "type": "pokemon",
+    "name": "Hakamo-o"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pincurchin"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cyclizar"
+  },
+  {
+    "type": "pokemon",
+    "name": "Abra"
+  },
+  {
+    "type": "pokemon",
+    "name": "Heracross"
+  },
+  {
+    "type": "pokemon",
+    "name": "Illumise"
+  },
+  {
+    "type": "pokemon",
+    "name": "Hippopotas"
+  },
+  {
+    "type": "pokemon",
+    "name": "Maractus"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bergmite"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kommo-o"
+  },
+  {
+    "type": "pokemon",
+    "name": "Snom"
+  },
+  {
+    "type": "pokemon",
+    "name": "Orthworm"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kadabra"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sneasel"
+  },
+  {
+    "type": "pokemon",
+    "name": "Roselia"
+  },
+  {
+    "type": "pokemon",
+    "name": "Hippowdon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dwebble"
+  },
+  {
+    "type": "pokemon",
+    "name": "Avalugg"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tapu Koko"
+  },
+  {
+    "type": "pokemon",
+    "name": "Frosmoth"
+  },
+  {
+    "type": "pokemon",
+    "name": "Glimmet"
+  },
+  {
+    "type": "pokemon",
+    "name": "Alakazam"
+  },
+  {
+    "type": "pokemon",
+    "name": "Teddiursa"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gulpin"
+  },
+  {
+    "type": "pokemon",
+    "name": "Skorupi"
+  },
+  {
+    "type": "pokemon",
+    "name": "Crustle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Noibat"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tapu Lele"
+  },
+  {
+    "type": "pokemon",
+    "name": "Stonjourner"
+  },
+  {
+    "type": "pokemon",
+    "name": "Glimmora"
+  },
+  {
+    "type": "pokemon",
+    "name": "Machop"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ursaring"
+  },
+  {
+    "type": "pokemon",
+    "name": "Swalot"
+  },
+  {
+    "type": "pokemon",
+    "name": "Drapion"
+  },
+  {
+    "type": "pokemon",
+    "name": "Scraggy"
+  },
+  {
+    "type": "pokemon",
+    "name": "Noivern"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tapu Bulu"
+  },
+  {
+    "type": "pokemon",
+    "name": "Eiscue"
+  },
+  {
+    "type": "pokemon",
+    "name": "Greavard"
+  },
+  {
+    "type": "pokemon",
+    "name": "Machoke"
+  },
+  {
+    "type": "pokemon",
+    "name": "Slugma"
+  },
+  {
+    "type": "pokemon",
+    "name": "Carvanha"
+  },
+  {
+    "type": "pokemon",
+    "name": "Croagunk"
+  },
+  {
+    "type": "pokemon",
+    "name": "Scrafty"
+  },
+  {
+    "type": "pokemon",
+    "name": "Xerneas"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tapu Fini"
+  },
+  {
+    "type": "pokemon",
+    "name": "Indeedee"
+  },
+  {
+    "type": "pokemon",
+    "name": "Houndstone"
+  },
+  {
+    "type": "pokemon",
+    "name": "Machamp"
+  },
+  {
+    "type": "pokemon",
+    "name": "Magcargo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sharpedo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Toxicroak"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sigilyph"
+  },
+  {
+    "type": "pokemon",
+    "name": "Yveltal"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cosmog"
+  },
+  {
+    "type": "pokemon",
+    "name": "Morpeko"
+  },
+  {
+    "type": "pokemon",
+    "name": "Flamigo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bellsprout"
+  },
+  {
+    "type": "pokemon",
+    "name": "Swinub"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wailmer"
+  },
+  {
+    "type": "pokemon",
+    "name": "Carnivine"
+  },
+  {
+    "type": "pokemon",
+    "name": "Yamask"
+  },
+  {
+    "type": "pokemon",
+    "name": "Zygarde"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cosmoem"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cufant"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cetoddle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Weepinbell"
+  },
+  {
+    "type": "pokemon",
+    "name": "Piloswine"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wailord"
+  },
+  {
+    "type": "pokemon",
+    "name": "Finneon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cofagrigus"
+  },
+  {
+    "type": "pokemon",
+    "name": "Diancie"
+  },
+  {
+    "type": "pokemon",
+    "name": "Solgaleo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Copperajah"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cetitan"
+  },
+  {
+    "type": "pokemon",
+    "name": "Victreebel"
+  },
+  {
+    "type": "pokemon",
+    "name": "Corsola"
+  },
+  {
+    "type": "pokemon",
+    "name": "Numel"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lumineon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tirtouga"
+  },
+  {
+    "type": "pokemon",
+    "name": "Hoopa"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lunala"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dracozolt"
+  },
+  {
+    "type": "pokemon",
+    "name": "Veluza"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tentacool"
+  },
+  {
+    "type": "pokemon",
+    "name": "Remoraid"
+  },
+  {
+    "type": "pokemon",
+    "name": "Camerupt"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mantyke"
+  },
+  {
+    "type": "pokemon",
+    "name": "Carracosta"
+  },
+  {
+    "type": "pokemon",
+    "name": "Volcanion"
+  },
+  {
+    "type": "pokemon",
+    "name": "Nihilego"
+  },
+  {
+    "type": "pokemon",
+    "name": "Arctozolt"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dondozo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tentacruel"
+  },
+  {
+    "type": "pokemon",
+    "name": "Octillery"
+  },
+  {
+    "type": "pokemon",
+    "name": "Torkoal"
+  },
+  {
+    "type": "pokemon",
+    "name": "Snover"
+  },
+  {
+    "type": "pokemon",
+    "name": "Archen"
+  },
+  {
+    "type": "pokemon",
+    "name": "Buzzwole"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dracovish"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tatsugiri"
+  },
+  {
+    "type": "pokemon",
+    "name": "Geodude"
+  },
+  {
+    "type": "pokemon",
+    "name": "Delibird"
+  },
+  {
+    "type": "pokemon",
+    "name": "Spoink"
+  },
+  {
+    "type": "pokemon",
+    "name": "Abomasnow"
+  },
+  {
+    "type": "pokemon",
+    "name": "Archeops"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pheromosa"
+  },
+  {
+    "type": "pokemon",
+    "name": "Arctovish"
+  },
+  {
+    "type": "pokemon",
+    "name": "Annihilape"
+  },
+  {
+    "type": "pokemon",
+    "name": "Graveler"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mantine"
+  },
+  {
+    "type": "pokemon",
+    "name": "Grumpig"
+  },
+  {
+    "type": "pokemon",
+    "name": "Weavile"
+  },
+  {
+    "type": "pokemon",
+    "name": "Trubbish"
+  },
+  {
+    "type": "pokemon",
+    "name": "Xurkitree"
+  },
+  {
+    "type": "pokemon",
+    "name": "Duraludon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Clodsire"
+  },
+  {
+    "type": "pokemon",
+    "name": "Golem"
+  },
+  {
+    "type": "pokemon",
+    "name": "Skarmory"
+  },
+  {
+    "type": "pokemon",
+    "name": "Spinda"
+  },
+  {
+    "type": "pokemon",
+    "name": "Magnezone"
+  },
+  {
+    "type": "pokemon",
+    "name": "Garbodor"
+  },
+  {
+    "type": "pokemon",
+    "name": "Celesteela"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dreepy"
+  },
+  {
+    "type": "pokemon",
+    "name": "Farigiraf"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ponyta"
+  },
+  {
+    "type": "pokemon",
+    "name": "Houndour"
+  },
+  {
+    "type": "pokemon",
+    "name": "Trapinch"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lickilicky"
+  },
+  {
+    "type": "pokemon",
+    "name": "Zorua"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kartana"
+  },
+  {
+    "type": "pokemon",
+    "name": "Drakloak"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dudunsparce"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rapidash"
+  },
+  {
+    "type": "pokemon",
+    "name": "Houndoom"
+  },
+  {
+    "type": "pokemon",
+    "name": "Vibrava"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rhyperior"
+  },
+  {
+    "type": "pokemon",
+    "name": "Zoroark"
+  },
+  {
+    "type": "pokemon",
+    "name": "Guzzlord"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dragapult"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kingambit"
+  },
+  {
+    "type": "pokemon",
+    "name": "Slowpoke"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kingdra"
+  },
+  {
+    "type": "pokemon",
+    "name": "Flygon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tangrowth"
+  },
+  {
+    "type": "pokemon",
+    "name": "Minccino"
+  },
+  {
+    "type": "pokemon",
+    "name": "Necrozma"
+  },
+  {
+    "type": "pokemon",
+    "name": "Zacian"
+  },
+  {
+    "type": "pokemon",
+    "name": "Great Tusk"
+  },
+  {
+    "type": "pokemon",
+    "name": "Slowbro"
+  },
+  {
+    "type": "pokemon",
+    "name": "Phanpy"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cacnea"
+  },
+  {
+    "type": "pokemon",
+    "name": "Electivire"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cinccino"
+  },
+  {
+    "type": "pokemon",
+    "name": "Magearna"
+  },
+  {
+    "type": "pokemon",
+    "name": "Zamazenta"
+  },
+  {
+    "type": "pokemon",
+    "name": "Scream Tail"
+  },
+  {
+    "type": "pokemon",
+    "name": "Magnemite"
+  },
+  {
+    "type": "pokemon",
+    "name": "Donphan"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cacturne"
+  },
+  {
+    "type": "pokemon",
+    "name": "Magmortar"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gothita"
+  },
+  {
+    "type": "pokemon",
+    "name": "Marshadow"
+  },
+  {
+    "type": "pokemon",
+    "name": "Eternatus"
+  },
+  {
+    "type": "pokemon",
+    "name": "Brute Bonnet"
+  },
+  {
+    "type": "pokemon",
+    "name": "Magneton"
+  },
+  {
+    "type": "pokemon",
+    "name": "Porygonpokemon",
+    "": "pokemon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Togekiss"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gothorita"
+  },
+  {
+    "type": "pokemon",
+    "name": "Poipole"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kubfu"
+  },
+  {
+    "type": "pokemon",
+    "name": "Flutter Mane"
+  },
+  {
+    "type": "pokemon",
+    "name": "Farfetch'd"
+  },
+  {
+    "type": "pokemon",
+    "name": "Stantler"
+  },
+  {
+    "type": "pokemon",
+    "name": "Altaria"
+  },
+  {
+    "type": "pokemon",
+    "name": "Yanmega"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gothitelle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Naganadel"
+  },
+  {
+    "type": "pokemon",
+    "name": "Urshifu"
+  },
+  {
+    "type": "pokemon",
+    "name": "Slither Wing"
+  },
+  {
+    "type": "pokemon",
+    "name": "Doduo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Smeargle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Zangoose"
+  },
+  {
+    "type": "pokemon",
+    "name": "Leafeon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Solosis"
+  },
+  {
+    "type": "pokemon",
+    "name": "Stakataka"
+  },
+  {
+    "type": "pokemon",
+    "name": "Zarude"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sandy Shocks"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dodrio"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tyrogue"
+  },
+  {
+    "type": "pokemon",
+    "name": "Seviper"
+  },
+  {
+    "type": "pokemon",
+    "name": "Glaceon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Duosion"
+  },
+  {
+    "type": "pokemon",
+    "name": "Blacephalon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Regieleki"
+  },
+  {
+    "type": "pokemon",
+    "name": "Iron Treads"
+  },
+  {
+    "type": "pokemon",
+    "name": "Seel"
+  },
+  {
+    "type": "pokemon",
+    "name": "Hitmontop"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lunatone"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gliscor"
+  },
+  {
+    "type": "pokemon",
+    "name": "Reuniclus"
+  },
+  {
+    "type": "pokemon",
+    "name": "Zeraora"
+  },
+  {
+    "type": "pokemon",
+    "name": "Regidrago"
+  },
+  {
+    "type": "pokemon",
+    "name": "Iron Bundle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dewgong"
+  },
+  {
+    "type": "pokemon",
+    "name": "Smoochum"
+  },
+  {
+    "type": "pokemon",
+    "name": "Solrock"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mamoswine"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ducklett"
+  },
+  {
+    "type": "pokemon",
+    "name": "Meltan"
+  },
+  {
+    "type": "pokemon",
+    "name": "Glastrier"
+  },
+  {
+    "type": "pokemon",
+    "name": "Iron Hands"
+  },
+  {
+    "type": "pokemon",
+    "name": "Grimer"
+  },
+  {
+    "type": "pokemon",
+    "name": "Elekid"
+  },
+  {
+    "type": "pokemon",
+    "name": "Barboach"
+  },
+  {
+    "type": "pokemon",
+    "name": "Porygon-Z"
+  },
+  {
+    "type": "pokemon",
+    "name": "Swanna"
+  },
+  {
+    "type": "pokemon",
+    "name": "Melmetal"
+  },
+  {
+    "type": "pokemon",
+    "name": "Spectrier"
+  },
+  {
+    "type": "pokemon",
+    "name": "Iron Jugulis"
+  },
+  {
+    "type": "pokemon",
+    "name": "Muk"
+  },
+  {
+    "type": "pokemon",
+    "name": "Magby"
+  },
+  {
+    "type": "pokemon",
+    "name": "Whiscash"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gallade"
+  },
+  {
+    "type": "pokemon",
+    "name": "Vanillite"
+  },
+  {
+    "type": "pokemon",
+    "name": "Calyrex"
+  },
+  {
+    "type": "pokemon",
+    "name": "Iron Moth"
+  },
+  {
+    "type": "pokemon",
+    "name": "Shellder"
+  },
+  {
+    "type": "pokemon",
+    "name": "Miltank"
+  },
+  {
+    "type": "pokemon",
+    "name": "Corphish"
+  },
+  {
+    "type": "pokemon",
+    "name": "Probopass"
+  },
+  {
+    "type": "pokemon",
+    "name": "Vanillish"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wyrdeer"
+  },
+  {
+    "type": "pokemon",
+    "name": "Iron Thorns"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cloyster"
+  },
+  {
+    "type": "pokemon",
+    "name": "Blissey"
+  },
+  {
+    "type": "pokemon",
+    "name": "Crawdaunt"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dusknoir"
+  },
+  {
+    "type": "pokemon",
+    "name": "Vanilluxe"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kleavor"
+  },
+  {
+    "type": "pokemon",
+    "name": "Frigibax"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gastly"
+  },
+  {
+    "type": "pokemon",
+    "name": "Raikou"
+  },
+  {
+    "type": "pokemon",
+    "name": "Baltoy"
+  },
+  {
+    "type": "pokemon",
+    "name": "Froslass"
+  },
+  {
+    "type": "pokemon",
+    "name": "Deerling"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ursaluna"
+  },
+  {
+    "type": "pokemon",
+    "name": "Arctibax"
+  },
+  {
+    "type": "pokemon",
+    "name": "Haunter"
+  },
+  {
+    "type": "pokemon",
+    "name": "Entei"
+  },
+  {
+    "type": "pokemon",
+    "name": "Claydol"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rotom"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sawsbuck"
+  },
+  {
+    "type": "pokemon",
+    "name": "Basculegion"
+  },
+  {
+    "type": "pokemon",
+    "name": "Baxcalibur"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gengar"
+  },
+  {
+    "type": "pokemon",
+    "name": "Suicune"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lileep"
+  },
+  {
+    "type": "pokemon",
+    "name": "Uxie"
+  },
+  {
+    "type": "pokemon",
+    "name": "Emolga"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sneasler"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gimmighoul"
+  },
+  {
+    "type": "pokemon",
+    "name": "Onix"
+  },
+  {
+    "type": "pokemon",
+    "name": "Larvitar"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cradily"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mesprit"
+  },
+  {
+    "type": "pokemon",
+    "name": "Karrablast"
+  },
+  {
+    "type": "pokemon",
+    "name": "Overqwil"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gholdengo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Drowzee"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pupitar"
+  },
+  {
+    "type": "pokemon",
+    "name": "Anorith"
+  },
+  {
+    "type": "pokemon",
+    "name": "Azelf"
+  },
+  {
+    "type": "pokemon",
+    "name": "Escavalier"
+  },
+  {
+    "type": "pokemon",
+    "name": "Enamorus"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wo-Chien"
+  },
+  {
+    "type": "pokemon",
+    "name": "Hypno"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tyranitar"
+  },
+  {
+    "type": "pokemon",
+    "name": "Armaldo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dialga"
+  },
+  {
+    "type": "pokemon",
+    "name": "Foongus"
+  },
+  {
+    "type": "pokemon",
+    "name": "Chien-Pao"
+  },
+  {
+    "type": "pokemon",
+    "name": "Krabby"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lugia"
+  },
+  {
+    "type": "pokemon",
+    "name": "Feebas"
+  },
+  {
+    "type": "pokemon",
+    "name": "Palkia"
+  },
+  {
+    "type": "pokemon",
+    "name": "Amoonguss"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ting-Lu"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kingler"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ho-oh"
+  },
+  {
+    "type": "pokemon",
+    "name": "Milotic"
+  },
+  {
+    "type": "pokemon",
+    "name": "Heatran"
+  },
+  {
+    "type": "pokemon",
+    "name": "Frillish"
+  },
+  {
+    "type": "pokemon",
+    "name": "Chi-Yu"
+  },
+  {
+    "type": "pokemon",
+    "name": "Voltorb"
+  },
+  {
+    "type": "pokemon",
+    "name": "Celebi"
+  },
+  {
+    "type": "pokemon",
+    "name": "Castform"
+  },
+  {
+    "type": "pokemon",
+    "name": "Regigigas"
+  },
+  {
+    "type": "pokemon",
+    "name": "Jellicent"
+  },
+  {
+    "type": "pokemon",
+    "name": "Roaring Moon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Electrode"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kecleon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Giratina"
+  },
+  {
+    "type": "pokemon",
+    "name": "Alomomola"
+  },
+  {
+    "type": "pokemon",
+    "name": "Iron Valiant"
+  },
+  {
+    "type": "pokemon",
+    "name": "Exeggcute"
+  },
+  {
+    "type": "pokemon",
+    "name": "Shuppet"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cresselia"
+  },
+  {
+    "type": "pokemon",
+    "name": "Joltik"
+  },
+  {
+    "type": "pokemon",
+    "name": "Koraidon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Exeggutor"
+  },
+  {
+    "type": "pokemon",
+    "name": "Banette"
+  },
+  {
+    "type": "pokemon",
+    "name": "Phione"
+  },
+  {
+    "type": "pokemon",
+    "name": "Galvantula"
+  },
+  {
+    "type": "pokemon",
+    "name": "Miraidon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cubone"
+  },
+  {
+    "type": "pokemon",
+    "name": "Duskull"
+  },
+  {
+    "type": "pokemon",
+    "name": "Manaphy"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ferroseed"
+  },
+  {
+    "type": "pokemon",
+    "name": "Walking Wake"
+  },
+  {
+    "type": "pokemon",
+    "name": "Marowak"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dusclops"
+  },
+  {
+    "type": "pokemon",
+    "name": "Darkrai"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ferrothorn"
+  },
+  {
+    "type": "pokemon",
+    "name": "Iron Leaves"
+  },
+  {
+    "type": "pokemon",
+    "name": "Hitmonlee"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tropius"
+  },
+  {
+    "type": "pokemon",
+    "name": "Shaymin"
+  },
+  {
+    "type": "pokemon",
+    "name": "Klink"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dipplin"
+  },
+  {
+    "type": "pokemon",
+    "name": "Hitmonchan"
+  },
+  {
+    "type": "pokemon",
+    "name": "Chimecho"
+  },
+  {
+    "type": "pokemon",
+    "name": "Arceus"
+  },
+  {
+    "type": "pokemon",
+    "name": "Klang"
+  },
+  {
+    "type": "pokemon",
+    "name": "Poltchageist"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lickitung"
+  },
+  {
+    "type": "pokemon",
+    "name": "Absol"
+  },
+  {
+    "type": "pokemon",
+    "name": "Klinklang"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sinistcha"
+  },
+  {
+    "type": "pokemon",
+    "name": "Koffing"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wynaut"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tynamo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Okidogi"
+  },
+  {
+    "type": "pokemon",
+    "name": "Weezing"
+  },
+  {
+    "type": "pokemon",
+    "name": "Snorunt"
+  },
+  {
+    "type": "pokemon",
+    "name": "Eelektrik"
+  },
+  {
+    "type": "pokemon",
+    "name": "Munkidori"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rhyhorn"
+  },
+  {
+    "type": "pokemon",
+    "name": "Glalie"
+  },
+  {
+    "type": "pokemon",
+    "name": "Eelektross"
+  },
+  {
+    "type": "pokemon",
+    "name": "Fezandipiti"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rhydon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Spheal"
+  },
+  {
+    "type": "pokemon",
+    "name": "Elgyem"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ogerpon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Chansey"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sealeo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Beheeyem"
+  },
+  {
+    "type": "pokemon",
+    "name": "Archaludon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tangela"
+  },
+  {
+    "type": "pokemon",
+    "name": "Walrein"
+  },
+  {
+    "type": "pokemon",
+    "name": "Litwick"
+  },
+  {
+    "type": "pokemon",
+    "name": "Hydrapple"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kangaskhan"
+  },
+  {
+    "type": "pokemon",
+    "name": "Clamperl"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lampent"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gouging Fire"
+  },
+  {
+    "type": "pokemon",
+    "name": "Horsea"
+  },
+  {
+    "type": "pokemon",
+    "name": "Huntail"
+  },
+  {
+    "type": "pokemon",
+    "name": "Chandelure"
+  },
+  {
+    "type": "pokemon",
+    "name": "Raging Bolt"
+  },
+  {
+    "type": "pokemon",
+    "name": "Seadra"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gorebyss"
+  },
+  {
+    "type": "pokemon",
+    "name": "Axew"
+  },
+  {
+    "type": "pokemon",
+    "name": "Iron Boulder"
+  },
+  {
+    "type": "pokemon",
+    "name": "Goldeen"
+  },
+  {
+    "type": "pokemon",
+    "name": "Relicanth"
+  },
+  {
+    "type": "pokemon",
+    "name": "Fraxure"
+  },
+  {
+    "type": "pokemon",
+    "name": "Iron Crown"
+  },
+  {
+    "type": "pokemon",
+    "name": "Seaking"
+  },
+  {
+    "type": "pokemon",
+    "name": "Luvdisc"
+  },
+  {
+    "type": "pokemon",
+    "name": "Haxorus"
+  },
+  {
+    "type": "pokemon",
+    "name": "Terapagos"
+  },
+  {
+    "type": "pokemon",
+    "name": "Staryu"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bagon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cubchoo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pecharunt"
+  },
+  {
+    "type": "pokemon",
+    "name": "Starmie"
+  },
+  {
+    "type": "pokemon",
+    "name": "Shelgon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Beartic"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mr. Mime"
+  },
+  {
+    "type": "pokemon",
+    "name": "Salamence"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cryogonal"
+  },
+  {
+    "type": "pokemon",
+    "name": "Scyther"
+  },
+  {
+    "type": "pokemon",
+    "name": "Beldum"
+  },
+  {
+    "type": "pokemon",
+    "name": "Shelmet"
+  },
+  {
+    "type": "pokemon",
+    "name": "Jynx"
+  },
+  {
+    "type": "pokemon",
+    "name": "Metang"
+  },
+  {
+    "type": "pokemon",
+    "name": "Accelgor"
+  },
+  {
+    "type": "pokemon",
+    "name": "Electabuzz"
+  },
+  {
+    "type": "pokemon",
+    "name": "Metagross"
+  },
+  {
+    "type": "pokemon",
+    "name": "Stunfisk"
+  },
+  {
+    "type": "pokemon",
+    "name": "Magmar"
+  },
+  {
+    "type": "pokemon",
+    "name": "Regirock"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mienfoo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pinsir"
+  },
+  {
+    "type": "pokemon",
+    "name": "Regice"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mienshao"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tauros"
+  },
+  {
+    "type": "pokemon",
+    "name": "Registeel"
+  },
+  {
+    "type": "pokemon",
+    "name": "Druddigon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Magikarp"
+  },
+  {
+    "type": "pokemon",
+    "name": "Latias"
+  },
+  {
+    "type": "pokemon",
+    "name": "Golett"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gyarados"
+  },
+  {
+    "type": "pokemon",
+    "name": "Latios"
+  },
+  {
+    "type": "pokemon",
+    "name": "Golurk"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lapras"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kyogre"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pawniard"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ditto"
+  },
+  {
+    "type": "pokemon",
+    "name": "Groudon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bisharp"
+  },
+  {
+    "type": "pokemon",
+    "name": "Eevee"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rayquaza"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bouffalant"
+  },
+  {
+    "type": "pokemon",
+    "name": "Vaporeon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Jirachi"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rufflet"
+  },
+  {
+    "type": "pokemon",
+    "name": "Jolteon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Deoxys"
+  },
+  {
+    "type": "pokemon",
+    "name": "Braviary"
+  },
+  {
+    "type": "pokemon",
+    "name": "Flareon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Vullaby"
+  },
+  {
+    "type": "pokemon",
+    "name": "Porygon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mandibuzz"
+  },
+  {
+    "type": "pokemon",
+    "name": "Omanyte"
+  },
+  {
+    "type": "pokemon",
+    "name": "Heatmor"
+  },
+  {
+    "type": "pokemon",
+    "name": "Omastar"
+  },
+  {
+    "type": "pokemon",
+    "name": "Durant"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kabuto"
+  },
+  {
+    "type": "pokemon",
+    "name": "Deino"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kabutops"
+  },
+  {
+    "type": "pokemon",
+    "name": "Zweilous"
+  },
+  {
+    "type": "pokemon",
+    "name": "Aerodactyl"
+  },
+  {
+    "type": "pokemon",
+    "name": "Hydreigon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Snorlax"
+  },
+  {
+    "type": "pokemon",
+    "name": "Larvesta"
+  },
+  {
+    "type": "pokemon",
+    "name": "Articuno"
+  },
+  {
+    "type": "pokemon",
+    "name": "Volcarona"
+  },
+  {
+    "type": "pokemon",
+    "name": "Zapdos"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cobalion"
+  },
+  {
+    "type": "pokemon",
+    "name": "Moltres"
+  },
+  {
+    "type": "pokemon",
+    "name": "Terrakion"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dratini"
+  },
+  {
+    "type": "pokemon",
+    "name": "Virizion"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dragonair"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tornadus"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dragonite"
+  },
+  {
+    "type": "pokemon",
+    "name": "Thundurus"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mewtwo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Reshiram"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mew"
+  },
+  {
+    "type": "pokemon",
+    "name": "Zekrom"
+  },
+  {
+    "type": "pokemon",
+    "name": "Landorus"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kyurem"
+  },
+  {
+    "type": "pokemon",
+    "name": "Keldeo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Meloetta"
+  },
+  {
+    "type": "pokemon",
+    "name": "Genesect"
+  },
+  {
+    "type": "Type",
+    "name": "Brand Name"
+  },
+  {
+    "type": "drug",
+    "name": "Vigadrone"
+  },
+  {
+    "type": "drug",
+    "name": "Abecma"
+  },
+  {
+    "type": "drug",
+    "name": "Abilify"
+  },
+  {
+    "type": "drug",
+    "name": "Abraxane"
+  },
+  {
+    "type": "drug",
+    "name": "Abrilada"
+  },
+  {
+    "type": "drug",
+    "name": "Abrysvo"
+  },
+  {
+    "type": "drug",
+    "name": "Actemra"
+  },
+  {
+    "type": "drug",
+    "name": "Acthar Gel"
+  },
+  {
+    "type": "drug",
+    "name": "Actimmune"
+  },
+  {
+    "type": "drug",
+    "name": "Activase"
+  },
+  {
+    "type": "drug",
+    "name": "Adacel"
+  },
+  {
+    "type": "drug",
+    "name": "Adakveo"
+  },
+  {
+    "type": "drug",
+    "name": "Adbry"
+  },
+  {
+    "type": "drug",
+    "name": "Adcetris"
+  },
+  {
+    "type": "drug",
+    "name": "Adcirca"
+  },
+  {
+    "type": "drug",
+    "name": "Adempas"
+  },
+  {
+    "type": "drug",
+    "name": "Admelog"
+  },
+  {
+    "type": "drug",
+    "name": "Advate"
+  },
+  {
+    "type": "drug",
+    "name": "Adynovate"
+  },
+  {
+    "type": "drug",
+    "name": "Adzynma"
+  },
+  {
+    "type": "drug",
+    "name": "Affinity"
+  },
+  {
+    "type": "drug",
+    "name": "Afinitor"
+  },
+  {
+    "type": "drug",
+    "name": "Afinitor Disperz"
+  },
+  {
+    "type": "drug",
+    "name": "Afstyla"
+  },
+  {
+    "type": "drug",
+    "name": "Agamree"
+  },
+  {
+    "type": "drug",
+    "name": "Agrylin"
+  },
+  {
+    "type": "drug",
+    "name": "Aimovig"
+  },
+  {
+    "type": "drug",
+    "name": "Airsupra"
+  },
+  {
+    "type": "drug",
+    "name": "Ajovy"
+  },
+  {
+    "type": "drug",
+    "name": "Akeega"
+  },
+  {
+    "type": "drug",
+    "name": "Akynzeo"
+  },
+  {
+    "type": "drug",
+    "name": "Alecensa"
+  },
+  {
+    "type": "drug",
+    "name": "Alhemo"
+  },
+  {
+    "type": "drug",
+    "name": "Alimta"
+  },
+  {
+    "type": "drug",
+    "name": "Allegra"
+  },
+  {
+    "type": "drug",
+    "name": "AlloDerm"
+  },
+  {
+    "type": "drug",
+    "name": "Alphagan P"
+  },
+  {
+    "type": "drug",
+    "name": "Alprolix"
+  },
+  {
+    "type": "drug",
+    "name": "Alrex"
+  },
+  {
+    "type": "drug",
+    "name": "Altuviiio"
+  },
+  {
+    "type": "drug",
+    "name": "Alunbrig"
+  },
+  {
+    "type": "drug",
+    "name": "Alymsys"
+  },
+  {
+    "type": "drug",
+    "name": "Amondys"
+  },
+  {
+    "type": "drug",
+    "name": "Ampyra"
+  },
+  {
+    "type": "drug",
+    "name": "Amvuttra"
+  },
+  {
+    "type": "drug",
+    "name": "Analpram"
+  },
+  {
+    "type": "drug",
+    "name": "Andembry"
+  },
+  {
+    "type": "drug",
+    "name": "Andexxa"
+  },
+  {
+    "type": "drug",
+    "name": "Anoro Ellipta"
+  },
+  {
+    "type": "drug",
+    "name": "Apidra"
+  },
+  {
+    "type": "drug",
+    "name": "Aplenzin"
+  },
+  {
+    "type": "drug",
+    "name": "Apligraf"
+  },
+  {
+    "type": "drug",
+    "name": "Apokyn"
+  },
+  {
+    "type": "drug",
+    "name": "Aponvie"
+  },
+  {
+    "type": "drug",
+    "name": "Apretude"
+  },
+  {
+    "type": "drug",
+    "name": "Aptivus"
+  },
+  {
+    "type": "drug",
+    "name": "Aranesp"
+  },
+  {
+    "type": "drug",
+    "name": "Arazlo"
+  },
+  {
+    "type": "drug",
+    "name": "Arexvy"
+  },
+  {
+    "type": "drug",
+    "name": "Arikayce"
+  },
+  {
+    "type": "drug",
+    "name": "Aristada"
+  },
+  {
+    "type": "drug",
+    "name": "Arixtra"
+  },
+  {
+    "type": "drug",
+    "name": "Armour Thyroid"
+  },
+  {
+    "type": "drug",
+    "name": "Arnuity Ellipta"
+  },
+  {
+    "type": "drug",
+    "name": "Asparlas"
+  },
+  {
+    "type": "drug",
+    "name": "Atripla"
+  },
+  {
+    "type": "drug",
+    "name": "Atrovent"
+  },
+  {
+    "type": "drug",
+    "name": "Augtyro"
+  },
+  {
+    "type": "drug",
+    "name": "Austedo"
+  },
+  {
+    "type": "drug",
+    "name": "Auvi-Q"
+  },
+  {
+    "type": "drug",
+    "name": "Avastin"
+  },
+  {
+    "type": "drug",
+    "name": "Avonex"
+  },
+  {
+    "type": "drug",
+    "name": "Avsola"
+  },
+  {
+    "type": "drug",
+    "name": "Avycaz"
+  },
+  {
+    "type": "drug",
+    "name": "Aygestin"
+  },
+  {
+    "type": "drug",
+    "name": "Ayvakit"
+  },
+  {
+    "type": "drug",
+    "name": "Bafiertam"
+  },
+  {
+    "type": "drug",
+    "name": "Balversa"
+  },
+  {
+    "type": "drug",
+    "name": "Baraclude"
+  },
+  {
+    "type": "drug",
+    "name": "Basaglar"
+  },
+  {
+    "type": "drug",
+    "name": "Bavencio"
+  },
+  {
+    "type": "drug",
+    "name": "Beleodaq"
+  },
+  {
+    "type": "drug",
+    "name": "Belrapzo"
+  },
+  {
+    "type": "drug",
+    "name": "Belsomra"
+  },
+  {
+    "type": "drug",
+    "name": "BeneFIX"
+  },
+  {
+    "type": "drug",
+    "name": "Benlysta"
+  },
+  {
+    "type": "drug",
+    "name": "Beovu"
+  },
+  {
+    "type": "drug",
+    "name": "Bepreve"
+  },
+  {
+    "type": "drug",
+    "name": "Berinert"
+  },
+  {
+    "type": "drug",
+    "name": "Besivance"
+  },
+  {
+    "type": "drug",
+    "name": "Besponsa"
+  },
+  {
+    "type": "drug",
+    "name": "Besremi"
+  },
+  {
+    "type": "drug",
+    "name": "Betaseron"
+  },
+  {
+    "type": "drug",
+    "name": "Bevespi"
+  },
+  {
+    "type": "drug",
+    "name": "Biktarvy"
+  },
+  {
+    "type": "drug",
+    "name": "Bimzelx"
+  },
+  {
+    "type": "drug",
+    "name": "Blenrep"
+  },
+  {
+    "type": "drug",
+    "name": "Blincyto"
+  },
+  {
+    "type": "drug",
+    "name": "Boostrix"
+  },
+  {
+    "type": "drug",
+    "name": "Bosulif"
+  },
+  {
+    "type": "drug",
+    "name": "Botox"
+  },
+  {
+    "type": "drug",
+    "name": "Braftovi"
+  },
+  {
+    "type": "drug",
+    "name": "Breo Ellipta"
+  },
+  {
+    "type": "drug",
+    "name": "Breyanzi"
+  },
+  {
+    "type": "drug",
+    "name": "Breztri"
+  },
+  {
+    "type": "drug",
+    "name": "Brilinta"
+  },
+  {
+    "type": "drug",
+    "name": "Brineura"
+  },
+  {
+    "type": "drug",
+    "name": "BRIUMVI"
+  },
+  {
+    "type": "drug",
+    "name": "Briviact"
+  },
+  {
+    "type": "drug",
+    "name": "Bronchitol"
+  },
+  {
+    "type": "drug",
+    "name": "Brukinsa"
+  },
+  {
+    "type": "drug",
+    "name": "Bryhali"
+  },
+  {
+    "type": "drug",
+    "name": "Buphenyl"
+  },
+  {
+    "type": "drug",
+    "name": "Bylvay"
+  },
+  {
+    "type": "drug",
+    "name": "Byooviz"
+  },
+  {
+    "type": "drug",
+    "name": "Cabenuva"
+  },
+  {
+    "type": "drug",
+    "name": "Cablivi"
+  },
+  {
+    "type": "drug",
+    "name": "Cabometyx"
+  },
+  {
+    "type": "drug",
+    "name": "Caduet"
+  },
+  {
+    "type": "drug",
+    "name": "Calcilo"
+  },
+  {
+    "type": "drug",
+    "name": "Calquence"
+  },
+  {
+    "type": "drug",
+    "name": "Camcevi"
+  },
+  {
+    "type": "drug",
+    "name": "Camzyos"
+  },
+  {
+    "type": "drug",
+    "name": "Caplyta"
+  },
+  {
+    "type": "drug",
+    "name": "Caprelsa"
+  },
+  {
+    "type": "drug",
+    "name": "Capvaxive"
+  },
+  {
+    "type": "drug",
+    "name": "Carbaglu"
+  },
+  {
+    "type": "drug",
+    "name": "Carbatrol"
+  },
+  {
+    "type": "drug",
+    "name": "Cathflo"
+  },
+  {
+    "type": "drug",
+    "name": "Cayston"
+  },
+  {
+    "type": "drug",
+    "name": "Celebrex"
+  },
+  {
+    "type": "drug",
+    "name": "CellCept"
+  },
+  {
+    "type": "drug",
+    "name": "Celontin"
+  },
+  {
+    "type": "drug",
+    "name": "Cholbam"
+  },
+  {
+    "type": "drug",
+    "name": "Cialis"
+  },
+  {
+    "type": "drug",
+    "name": "Cibinqo"
+  },
+  {
+    "type": "drug",
+    "name": "Cimerli"
+  },
+  {
+    "type": "drug",
+    "name": "CIMZIA"
+  },
+  {
+    "type": "drug",
+    "name": "Cinvanti"
+  },
+  {
+    "type": "drug",
+    "name": "Climara"
+  },
+  {
+    "type": "drug",
+    "name": "Clozapine"
+  },
+  {
+    "type": "drug",
+    "name": "Coartem"
+  },
+  {
+    "type": "drug",
+    "name": "Cobenfy"
+  },
+  {
+    "type": "drug",
+    "name": "Colazal"
+  },
+  {
+    "type": "drug",
+    "name": "Combivent"
+  },
+  {
+    "type": "drug",
+    "name": "Cometriq"
+  },
+  {
+    "type": "drug",
+    "name": "Comirnaty"
+  },
+  {
+    "type": "drug",
+    "name": "Corlanor"
+  },
+  {
+    "type": "drug",
+    "name": "Cortifoam"
+  },
+  {
+    "type": "drug",
+    "name": "Cortrophin"
+  },
+  {
+    "type": "drug",
+    "name": "Cosela"
+  },
+  {
+    "type": "drug",
+    "name": "Cosentyx"
+  },
+  {
+    "type": "drug",
+    "name": "Cotellic"
+  },
+  {
+    "type": "drug",
+    "name": "Crenessity"
+  },
+  {
+    "type": "drug",
+    "name": "Creon"
+  },
+  {
+    "type": "drug",
+    "name": "Cresemba"
+  },
+  {
+    "type": "drug",
+    "name": "Crexont"
+  },
+  {
+    "type": "drug",
+    "name": "Crinone"
+  },
+  {
+    "type": "drug",
+    "name": "Crysvita"
+  },
+  {
+    "type": "drug",
+    "name": "Ctexli"
+  },
+  {
+    "type": "drug",
+    "name": "Cuprimine"
+  },
+  {
+    "type": "drug",
+    "name": "Cyclinex-1"
+  },
+  {
+    "type": "drug",
+    "name": "Cyltezo"
+  },
+  {
+    "type": "drug",
+    "name": "Cyramza"
+  },
+  {
+    "type": "drug",
+    "name": "Cystadane"
+  },
+  {
+    "type": "drug",
+    "name": "Cystadrops"
+  },
+  {
+    "type": "drug",
+    "name": "Cystagon"
+  },
+  {
+    "type": "drug",
+    "name": "Cytra-K"
+  },
+  {
+    "type": "drug",
+    "name": "Dalvance"
+  },
+  {
+    "type": "drug",
+    "name": "Danyelza"
+  },
+  {
+    "type": "drug",
+    "name": "Danziten"
+  },
+  {
+    "type": "drug",
+    "name": "Daraprim"
+  },
+  {
+    "type": "drug",
+    "name": "Darzalex"
+  },
+  {
+    "type": "drug",
+    "name": "Darzelex Faspro"
+  },
+  {
+    "type": "drug",
+    "name": "Datroway"
+  },
+  {
+    "type": "drug",
+    "name": "Daurismo"
+  },
+  {
+    "type": "drug",
+    "name": "Daybue"
+  },
+  {
+    "type": "drug",
+    "name": "Dayvigo"
+  },
+  {
+    "type": "drug",
+    "name": "Defitelio"
+  },
+  {
+    "type": "drug",
+    "name": "Delstrigo"
+  },
+  {
+    "type": "drug",
+    "name": "Denavir"
+  },
+  {
+    "type": "drug",
+    "name": "Depakote"
+  },
+  {
+    "type": "drug",
+    "name": "Depo Estradiol"
+  },
+  {
+    "type": "drug",
+    "name": "Descovy"
+  },
+  {
+    "type": "drug",
+    "name": "Dexilant"
+  },
+  {
+    "type": "drug",
+    "name": "Dextenza"
+  },
+  {
+    "type": "drug",
+    "name": "Dipentum"
+  },
+  {
+    "type": "drug",
+    "name": "Dojolvi"
+  },
+  {
+    "type": "drug",
+    "name": "Doptelet"
+  },
+  {
+    "type": "drug",
+    "name": "Dovato"
+  },
+  {
+    "type": "drug",
+    "name": "Duavee"
+  },
+  {
+    "type": "drug",
+    "name": "Duobrii"
+  },
+  {
+    "type": "drug",
+    "name": "Duopa"
+  },
+  {
+    "type": "drug",
+    "name": "Dupixent"
+  },
+  {
+    "type": "drug",
+    "name": "Durolane"
+  },
+  {
+    "type": "drug",
+    "name": "Durysta"
+  },
+  {
+    "type": "drug",
+    "name": "Dymista Nasal Spray"
+  },
+  {
+    "type": "drug",
+    "name": "Dysport"
+  },
+  {
+    "type": "drug",
+    "name": "Ebglyss"
+  },
+  {
+    "type": "drug",
+    "name": "Edurant"
+  },
+  {
+    "type": "drug",
+    "name": "Effexorvenlafaxine"
+  },
+  {
+    "type": "drug",
+    "name": "EleCare"
+  },
+  {
+    "type": "drug",
+    "name": "EleCare Jr."
+  },
+  {
+    "type": "drug",
+    "name": "Elelyso"
+  },
+  {
+    "type": "drug",
+    "name": "Elevidys"
+  },
+  {
+    "type": "drug",
+    "name": "Elfabrio"
+  },
+  {
+    "type": "drug",
+    "name": "Eligard"
+  },
+  {
+    "type": "drug",
+    "name": "Eliquis"
+  },
+  {
+    "type": "drug",
+    "name": "Elitek"
+  },
+  {
+    "type": "drug",
+    "name": "Elmiron"
+  },
+  {
+    "type": "drug",
+    "name": "Eloctate"
+  },
+  {
+    "type": "drug",
+    "name": "Elrexfio"
+  },
+  {
+    "type": "drug",
+    "name": "Elzonris"
+  },
+  {
+    "type": "drug",
+    "name": "EMEND"
+  },
+  {
+    "type": "drug",
+    "name": "Emflaza"
+  },
+  {
+    "type": "drug",
+    "name": "Emgality"
+  },
+  {
+    "type": "drug",
+    "name": "Empaveli"
+  },
+  {
+    "type": "drug",
+    "name": "Empliciti"
+  },
+  {
+    "type": "drug",
+    "name": "EMSAM"
+  },
+  {
+    "type": "drug",
+    "name": "Emverm"
+  },
+  {
+    "type": "drug",
+    "name": "Enbrel"
+  },
+  {
+    "type": "drug",
+    "name": "Enfamil"
+  },
+  {
+    "type": "drug",
+    "name": "Engerix-B"
+  },
+  {
+    "type": "drug",
+    "name": "Enhertu"
+  },
+  {
+    "type": "drug",
+    "name": "Enjaymo"
+  },
+  {
+    "type": "drug",
+    "name": "Enspryng"
+  },
+  {
+    "type": "drug",
+    "name": "Ensure"
+  },
+  {
+    "type": "drug",
+    "name": "Ensure Plus"
+  },
+  {
+    "type": "drug",
+    "name": "Entyvio"
+  },
+  {
+    "type": "drug",
+    "name": "Envarsus"
+  },
+  {
+    "type": "drug",
+    "name": "Eohilia"
+  },
+  {
+    "type": "drug",
+    "name": "Epclusa"
+  },
+  {
+    "type": "drug",
+    "name": "Epidiolex"
+  },
+  {
+    "type": "drug",
+    "name": "Epinephrine"
+  },
+  {
+    "type": "drug",
+    "name": "EpiPen"
+  },
+  {
+    "type": "drug",
+    "name": "EpiPen Jr"
+  },
+  {
+    "type": "drug",
+    "name": "Epivir"
+  },
+  {
+    "type": "drug",
+    "name": "Eprontia"
+  },
+  {
+    "type": "drug",
+    "name": "Equetro"
+  },
+  {
+    "type": "drug",
+    "name": "Erbitux"
+  },
+  {
+    "type": "drug",
+    "name": "Erivedge"
+  },
+  {
+    "type": "drug",
+    "name": "Erleada"
+  },
+  {
+    "type": "drug",
+    "name": "Ermeza"
+  },
+  {
+    "type": "drug",
+    "name": "Esperoct"
+  },
+  {
+    "type": "drug",
+    "name": "Estring"
+  },
+  {
+    "type": "drug",
+    "name": "Eucrisa"
+  },
+  {
+    "type": "drug",
+    "name": "Euflexxa"
+  },
+  {
+    "type": "drug",
+    "name": "Evenity"
+  },
+  {
+    "type": "drug",
+    "name": "Evkeeza"
+  },
+  {
+    "type": "drug",
+    "name": "Evomela"
+  },
+  {
+    "type": "drug",
+    "name": "Evrysdi"
+  },
+  {
+    "type": "drug",
+    "name": "Exjade"
+  },
+  {
+    "type": "drug",
+    "name": "Exondys"
+  },
+  {
+    "type": "drug",
+    "name": "Eylea"
+  },
+  {
+    "type": "drug",
+    "name": "Fabhalta"
+  },
+  {
+    "type": "drug",
+    "name": "Famvir"
+  },
+  {
+    "type": "drug",
+    "name": "Fanapt"
+  },
+  {
+    "type": "drug",
+    "name": "Farxiga"
+  },
+  {
+    "type": "drug",
+    "name": "Fasenra"
+  },
+  {
+    "type": "drug",
+    "name": "Fasenra Pen"
+  },
+  {
+    "type": "drug",
+    "name": "Faslodex"
+  },
+  {
+    "type": "drug",
+    "name": "Feiba"
+  },
+  {
+    "type": "drug",
+    "name": "Felbatol"
+  },
+  {
+    "type": "drug",
+    "name": "Fensolvi"
+  },
+  {
+    "type": "drug",
+    "name": "Feraheme"
+  },
+  {
+    "type": "drug",
+    "name": "Ferriprox"
+  },
+  {
+    "type": "drug",
+    "name": "Fetzima"
+  },
+  {
+    "type": "drug",
+    "name": "Fiasp"
+  },
+  {
+    "type": "drug",
+    "name": "Filspari"
+  },
+  {
+    "type": "drug",
+    "name": "Fintepla"
+  },
+  {
+    "type": "drug",
+    "name": "Firdapse"
+  },
+  {
+    "type": "drug",
+    "name": "Flexeril"
+  },
+  {
+    "type": "drug",
+    "name": "Flumist Quadrivalent"
+  },
+  {
+    "type": "drug",
+    "name": "Folotyn"
+  },
+  {
+    "type": "drug",
+    "name": "Forteo"
+  },
+  {
+    "type": "drug",
+    "name": "Fosrenol"
+  },
+  {
+    "type": "drug",
+    "name": "Fotivda"
+  },
+  {
+    "type": "drug",
+    "name": "Fruzaqla"
+  },
+  {
+    "type": "drug",
+    "name": "Fulphila"
+  },
+  {
+    "type": "drug",
+    "name": "Fyarro"
+  },
+  {
+    "type": "drug",
+    "name": "Fycompa"
+  },
+  {
+    "type": "drug",
+    "name": "Fylnetra"
+  },
+  {
+    "type": "drug",
+    "name": "Galafold"
+  },
+  {
+    "type": "drug",
+    "name": "Gamifant"
+  },
+  {
+    "type": "drug",
+    "name": "Gamunex-C"
+  },
+  {
+    "type": "drug",
+    "name": "Gardasil 9"
+  },
+  {
+    "type": "drug",
+    "name": "Gavreto"
+  },
+  {
+    "type": "drug",
+    "name": "Gazyva"
+  },
+  {
+    "type": "drug",
+    "name": "Gelsyn"
+  },
+  {
+    "type": "drug",
+    "name": "Gengraf"
+  },
+  {
+    "type": "drug",
+    "name": "Genvoya"
+  },
+  {
+    "type": "drug",
+    "name": "Gilenya"
+  },
+  {
+    "type": "drug",
+    "name": "Gilotrif"
+  },
+  {
+    "type": "drug",
+    "name": "Gimoti"
+  },
+  {
+    "type": "drug",
+    "name": "Givlaari"
+  },
+  {
+    "type": "drug",
+    "name": "Glatiramer Acetate"
+  },
+  {
+    "type": "drug",
+    "name": "Gleevec"
+  },
+  {
+    "type": "drug",
+    "name": "Gleostine"
+  },
+  {
+    "type": "drug",
+    "name": "Glucerna"
+  },
+  {
+    "type": "drug",
+    "name": "Glutarex"
+  },
+  {
+    "type": "drug",
+    "name": "Glyxambi"
+  },
+  {
+    "type": "drug",
+    "name": "Gocovri"
+  },
+  {
+    "type": "drug",
+    "name": "Gomekli"
+  },
+  {
+    "type": "drug",
+    "name": "Haegarda"
+  },
+  {
+    "type": "drug",
+    "name": "Halaven"
+  },
+  {
+    "type": "drug",
+    "name": "Harvoni"
+  },
+  {
+    "type": "drug",
+    "name": "Hemgenix"
+  },
+  {
+    "type": "drug",
+    "name": "Hemlibra"
+  },
+  {
+    "type": "drug",
+    "name": "Hemofil-M"
+  },
+  {
+    "type": "drug",
+    "name": "Herceptin"
+  },
+  {
+    "type": "drug",
+    "name": "Herceptin Hylecta"
+  },
+  {
+    "type": "drug",
+    "name": "Hernexeos"
+  },
+  {
+    "type": "drug",
+    "name": "Hetlioz"
+  },
+  {
+    "type": "drug",
+    "name": "Hi-Cal"
+  },
+  {
+    "type": "drug",
+    "name": "Hizentra vial 20%"
+  },
+  {
+    "type": "drug",
+    "name": "Hominex"
+  },
+  {
+    "type": "drug",
+    "name": "Humalog"
+  },
+  {
+    "type": "drug",
+    "name": "Humate-P"
+  },
+  {
+    "type": "drug",
+    "name": "HUMIRA"
+  },
+  {
+    "type": "drug",
+    "name": "Humulin"
+  },
+  {
+    "type": "drug",
+    "name": "Hyalgan"
+  },
+  {
+    "type": "drug",
+    "name": "Hympavzi"
+  },
+  {
+    "type": "drug",
+    "name": "HyperHEP B"
+  },
+  {
+    "type": "drug",
+    "name": "HyperRAB"
+  },
+  {
+    "type": "drug",
+    "name": "HyperTET"
+  },
+  {
+    "type": "drug",
+    "name": "Hyrimoz"
+  },
+  {
+    "type": "drug",
+    "name": "I-Valex"
+  },
+  {
+    "type": "drug",
+    "name": "Ibrance"
+  },
+  {
+    "type": "drug",
+    "name": "Iclusig"
+  },
+  {
+    "type": "drug",
+    "name": "Idacio"
+  },
+  {
+    "type": "drug",
+    "name": "Idelvion"
+  },
+  {
+    "type": "drug",
+    "name": "Idhifa"
+  },
+  {
+    "type": "drug",
+    "name": "Ilaris"
+  },
+  {
+    "type": "drug",
+    "name": "Ilumya"
+  },
+  {
+    "type": "drug",
+    "name": "Iluvien"
+  },
+  {
+    "type": "drug",
+    "name": "Imaavy"
+  },
+  {
+    "type": "drug",
+    "name": "Imcivree"
+  },
+  {
+    "type": "drug",
+    "name": "Imdelltra"
+  },
+  {
+    "type": "drug",
+    "name": "Imfinzi"
+  },
+  {
+    "type": "drug",
+    "name": "Imjudo"
+  },
+  {
+    "type": "drug",
+    "name": "Imlygic"
+  },
+  {
+    "type": "drug",
+    "name": "Imovax"
+  },
+  {
+    "type": "drug",
+    "name": "Inbrija"
+  },
+  {
+    "type": "drug",
+    "name": "Incruse Ellipta"
+  },
+  {
+    "type": "drug",
+    "name": "Inflectra"
+  },
+  {
+    "type": "drug",
+    "name": "Ingrezza"
+  },
+  {
+    "type": "drug",
+    "name": "Injectafer"
+  },
+  {
+    "type": "drug",
+    "name": "Inlexzo"
+  },
+  {
+    "type": "drug",
+    "name": "Inluriyo"
+  },
+  {
+    "type": "drug",
+    "name": "Inlyta"
+  },
+  {
+    "type": "drug",
+    "name": "Inqovi"
+  },
+  {
+    "type": "drug",
+    "name": "Inrebic"
+  },
+  {
+    "type": "drug",
+    "name": "Intelence"
+  },
+  {
+    "type": "drug",
+    "name": "Intuniv"
+  },
+  {
+    "type": "drug",
+    "name": "Invega Hafyera"
+  },
+  {
+    "type": "drug",
+    "name": "Invega Sustenna"
+  },
+  {
+    "type": "drug",
+    "name": "Invega Trinza"
+  },
+  {
+    "type": "drug",
+    "name": "Invokamet"
+  },
+  {
+    "type": "drug",
+    "name": "Invokana"
+  },
+  {
+    "type": "drug",
+    "name": "Iressa"
+  },
+  {
+    "type": "drug",
+    "name": "Isentress"
+  },
+  {
+    "type": "drug",
+    "name": "Istodax"
+  },
+  {
+    "type": "drug",
+    "name": "Isturisa"
+  },
+  {
+    "type": "drug",
+    "name": "ITOVEBI"
+  },
+  {
+    "type": "drug",
+    "name": "Iwilfin"
+  },
+  {
+    "type": "drug",
+    "name": "Izervay"
+  },
+  {
+    "type": "drug",
+    "name": "Jadenu"
+  },
+  {
+    "type": "drug",
+    "name": "Jakafi"
+  },
+  {
+    "type": "drug",
+    "name": "Janumet"
+  },
+  {
+    "type": "drug",
+    "name": "Januvia"
+  },
+  {
+    "type": "drug",
+    "name": "Jardiance"
+  },
+  {
+    "type": "drug",
+    "name": "Jascayd"
+  },
+  {
+    "type": "drug",
+    "name": "Javygtor"
+  },
+  {
+    "type": "drug",
+    "name": "Jaypirca"
+  },
+  {
+    "type": "drug",
+    "name": "Jelmyto"
+  },
+  {
+    "type": "drug",
+    "name": "Jemperli"
+  },
+  {
+    "type": "drug",
+    "name": "Jentadueto"
+  },
+  {
+    "type": "drug",
+    "name": "Jevity"
+  },
+  {
+    "type": "drug",
+    "name": "Jevtana"
+  },
+  {
+    "type": "drug",
+    "name": "Jivi"
+  },
+  {
+    "type": "drug",
+    "name": "Joenja"
+  },
+  {
+    "type": "drug",
+    "name": "Journavx"
+  },
+  {
+    "type": "drug",
+    "name": "Jubbonti"
+  },
+  {
+    "type": "drug",
+    "name": "Jublia"
+  },
+  {
+    "type": "drug",
+    "name": "Juluca"
+  },
+  {
+    "type": "drug",
+    "name": "Jynarque"
+  },
+  {
+    "type": "drug",
+    "name": "Kadcyla"
+  },
+  {
+    "type": "drug",
+    "name": "Kaletra"
+  },
+  {
+    "type": "drug",
+    "name": "Kalydeco"
+  },
+  {
+    "type": "drug",
+    "name": "Kanjiniti"
+  },
+  {
+    "type": "drug",
+    "name": "Kanuma"
+  },
+  {
+    "type": "drug",
+    "name": "Katerzia"
+  },
+  {
+    "type": "drug",
+    "name": "Kerendia"
+  },
+  {
+    "type": "drug",
+    "name": "Kesimpta"
+  },
+  {
+    "type": "drug",
+    "name": "Ketonex"
+  },
+  {
+    "type": "drug",
+    "name": "Keveyis"
+  },
+  {
+    "type": "drug",
+    "name": "Kevzara"
+  },
+  {
+    "type": "drug",
+    "name": "Keytruda"
+  },
+  {
+    "type": "drug",
+    "name": "Khapzory"
+  },
+  {
+    "type": "drug",
+    "name": "Kimmtrak"
+  },
+  {
+    "type": "drug",
+    "name": "Kimyrsa"
+  },
+  {
+    "type": "drug",
+    "name": "Kineret"
+  },
+  {
+    "type": "drug",
+    "name": "Kisqali"
+  },
+  {
+    "type": "drug",
+    "name": "Kisqali Femara"
+  },
+  {
+    "type": "drug",
+    "name": "Kisunla"
+  },
+  {
+    "type": "drug",
+    "name": "Klor-Con"
+  },
+  {
+    "type": "drug",
+    "name": "Konvomep"
+  },
+  {
+    "type": "drug",
+    "name": "Korlym"
+  },
+  {
+    "type": "drug",
+    "name": "Koselugo"
+  },
+  {
+    "type": "drug",
+    "name": "Kovaltry"
+  },
+  {
+    "type": "drug",
+    "name": "Krazati"
+  },
+  {
+    "type": "drug",
+    "name": "Krystexxa IV"
+  },
+  {
+    "type": "drug",
+    "name": "Kuvan"
+  },
+  {
+    "type": "drug",
+    "name": "Kyleena"
+  },
+  {
+    "type": "drug",
+    "name": "Kyprolis"
+  },
+  {
+    "type": "drug",
+    "name": "Lagevrio"
+  },
+  {
+    "type": "drug",
+    "name": "Lamictal"
+  },
+  {
+    "type": "drug",
+    "name": "Lampit"
+  },
+  {
+    "type": "drug",
+    "name": "Lamzede"
+  },
+  {
+    "type": "drug",
+    "name": "Lantus"
+  },
+  {
+    "type": "drug",
+    "name": "Lemtrada"
+  },
+  {
+    "type": "drug",
+    "name": "Lenvima"
+  },
+  {
+    "type": "drug",
+    "name": "Leqembi"
+  },
+  {
+    "type": "drug",
+    "name": "Leqselvi"
+  },
+  {
+    "type": "drug",
+    "name": "Leqvio"
+  },
+  {
+    "type": "drug",
+    "name": "Letairis"
+  },
+  {
+    "type": "drug",
+    "name": "Leukine"
+  },
+  {
+    "type": "drug",
+    "name": "Lialda"
+  },
+  {
+    "type": "drug",
+    "name": "Libtayo"
+  },
+  {
+    "type": "drug",
+    "name": "Linzess"
+  },
+  {
+    "type": "drug",
+    "name": "Lioresal"
+  },
+  {
+    "type": "drug",
+    "name": "Litfulo"
+  },
+  {
+    "type": "drug",
+    "name": "Livalo"
+  },
+  {
+    "type": "drug",
+    "name": "Livtencity"
+  },
+  {
+    "type": "drug",
+    "name": "Locametz"
+  },
+  {
+    "type": "drug",
+    "name": "Lokelma"
+  },
+  {
+    "type": "drug",
+    "name": "Lonsurf"
+  },
+  {
+    "type": "drug",
+    "name": "Loqtorzi"
+  },
+  {
+    "type": "drug",
+    "name": "Lorbrena"
+  },
+  {
+    "type": "drug",
+    "name": "Lotronex"
+  },
+  {
+    "type": "drug",
+    "name": "Lovenox"
+  },
+  {
+    "type": "drug",
+    "name": "Lucentis"
+  },
+  {
+    "type": "drug",
+    "name": "Lumakras"
+  },
+  {
+    "type": "drug",
+    "name": "Lumigan"
+  },
+  {
+    "type": "drug",
+    "name": "Lunsumio"
+  },
+  {
+    "type": "drug",
+    "name": "Lupkynis"
+  },
+  {
+    "type": "drug",
+    "name": "Lupron Depot"
+  },
+  {
+    "type": "drug",
+    "name": "Lupron Depot (ped)"
+  },
+  {
+    "type": "drug",
+    "name": "Lutathera"
+  },
+  {
+    "type": "drug",
+    "name": "Luxturna"
+  },
+  {
+    "type": "drug",
+    "name": "Luzu Cream"
+  },
+  {
+    "type": "drug",
+    "name": "Lybalvi"
+  },
+  {
+    "type": "drug",
+    "name": "Lynparza"
+  },
+  {
+    "type": "drug",
+    "name": "Lytgobi"
+  },
+  {
+    "type": "drug",
+    "name": "Lyumjev"
+  },
+  {
+    "type": "drug",
+    "name": "Lyvispah"
+  },
+  {
+    "type": "drug",
+    "name": "Malarone"
+  },
+  {
+    "type": "drug",
+    "name": "Margenza"
+  },
+  {
+    "type": "drug",
+    "name": "Mavenclad"
+  },
+  {
+    "type": "drug",
+    "name": "Mavyret"
+  },
+  {
+    "type": "drug",
+    "name": "Mayzent"
+  },
+  {
+    "type": "drug",
+    "name": "Mekinist"
+  },
+  {
+    "type": "drug",
+    "name": "Mektovi"
+  },
+  {
+    "type": "drug",
+    "name": "Menostar"
+  },
+  {
+    "type": "drug",
+    "name": "MenQuadfi"
+  },
+  {
+    "type": "drug",
+    "name": "Mepron suspension"
+  },
+  {
+    "type": "drug",
+    "name": "Mepsevii"
+  },
+  {
+    "type": "drug",
+    "name": "Merilog"
+  },
+  {
+    "type": "drug",
+    "name": "Miebo"
+  },
+  {
+    "type": "drug",
+    "name": "Mirena"
+  },
+  {
+    "type": "drug",
+    "name": "Monjuvi"
+  },
+  {
+    "type": "drug",
+    "name": "Monoferric"
+  },
+  {
+    "type": "drug",
+    "name": "Motegrity"
+  },
+  {
+    "type": "drug",
+    "name": "Mozobil"
+  },
+  {
+    "type": "drug",
+    "name": "Multaq"
+  },
+  {
+    "type": "drug",
+    "name": "Mvasi"
+  },
+  {
+    "type": "drug",
+    "name": "Mycapssa"
+  },
+  {
+    "type": "drug",
+    "name": "Myhibbin"
+  },
+  {
+    "type": "drug",
+    "name": "Mylotarg"
+  },
+  {
+    "type": "drug",
+    "name": "Myobloc"
+  },
+  {
+    "type": "drug",
+    "name": "Mytesi"
+  },
+  {
+    "type": "drug",
+    "name": "Naglazyme"
+  },
+  {
+    "type": "drug",
+    "name": "Namzaric"
+  },
+  {
+    "type": "drug",
+    "name": "Nardil"
+  },
+  {
+    "type": "drug",
+    "name": "Natazia"
+  },
+  {
+    "type": "drug",
+    "name": "Natrelle"
+  },
+  {
+    "type": "drug",
+    "name": "Nayzilam"
+  },
+  {
+    "type": "drug",
+    "name": "Nemluvio"
+  },
+  {
+    "type": "drug",
+    "name": "Neocate"
+  },
+  {
+    "type": "drug",
+    "name": "Nepro with Carb Steady"
+  },
+  {
+    "type": "drug",
+    "name": "Nerlynx"
+  },
+  {
+    "type": "drug",
+    "name": "Neulasta Onpro"
+  },
+  {
+    "type": "drug",
+    "name": "Neupogen"
+  },
+  {
+    "type": "drug",
+    "name": "Neupro Transdermal System"
+  },
+  {
+    "type": "drug",
+    "name": "Niktimvo"
+  },
+  {
+    "type": "drug",
+    "name": "Ninlaro"
+  },
+  {
+    "type": "drug",
+    "name": "Nityr"
+  },
+  {
+    "type": "drug",
+    "name": "Norditropin FlexPro"
+  },
+  {
+    "type": "drug",
+    "name": "Noritate Cream"
+  },
+  {
+    "type": "drug",
+    "name": "Norpace"
+  },
+  {
+    "type": "drug",
+    "name": "Norvir"
+  },
+  {
+    "type": "drug",
+    "name": "Nourianz"
+  },
+  {
+    "type": "drug",
+    "name": "Novoeight vial"
+  },
+  {
+    "type": "drug",
+    "name": "NovoFine"
+  },
+  {
+    "type": "drug",
+    "name": "Novolin"
+  },
+  {
+    "type": "drug",
+    "name": "NovoLog"
+  },
+  {
+    "type": "drug",
+    "name": "NovoSeven"
+  },
+  {
+    "type": "drug",
+    "name": "Nplate"
+  },
+  {
+    "type": "drug",
+    "name": "Nubeqa"
+  },
+  {
+    "type": "drug",
+    "name": "Nucala"
+  },
+  {
+    "type": "drug",
+    "name": "Nuedexta"
+  },
+  {
+    "type": "drug",
+    "name": "Nulibry"
+  },
+  {
+    "type": "drug",
+    "name": "Nulojix"
+  },
+  {
+    "type": "drug",
+    "name": "Nuplazid"
+  },
+  {
+    "type": "drug",
+    "name": "NuShield"
+  },
+  {
+    "type": "drug",
+    "name": "Nutropin"
+  },
+  {
+    "type": "drug",
+    "name": "Nuzyra"
+  },
+  {
+    "type": "drug",
+    "name": "Obizur"
+  },
+  {
+    "type": "drug",
+    "name": "Ocaliva"
+  },
+  {
+    "type": "drug",
+    "name": "Ocrevus"
+  },
+  {
+    "type": "drug",
+    "name": "Odefsey"
+  },
+  {
+    "type": "drug",
+    "name": "Odomzo"
+  },
+  {
+    "type": "drug",
+    "name": "Ofev"
+  },
+  {
+    "type": "drug",
+    "name": "Ogivri"
+  },
+  {
+    "type": "drug",
+    "name": "Ogsiveo"
+  },
+  {
+    "type": "drug",
+    "name": "Ojjaara"
+  },
+  {
+    "type": "drug",
+    "name": "Olpruva suspension"
+  },
+  {
+    "type": "drug",
+    "name": "Olumiant"
+  },
+  {
+    "type": "drug",
+    "name": "Omidria"
+  },
+  {
+    "type": "drug",
+    "name": "Omvoh"
+  },
+  {
+    "type": "drug",
+    "name": "Oncaspar"
+  },
+  {
+    "type": "drug",
+    "name": "Ongentys"
+  },
+  {
+    "type": "drug",
+    "name": "Onivyde"
+  },
+  {
+    "type": "drug",
+    "name": "Onpattro"
+  },
+  {
+    "type": "drug",
+    "name": "Ontruzant"
+  },
+  {
+    "type": "drug",
+    "name": "Onureg"
+  },
+  {
+    "type": "drug",
+    "name": "Opdivo Yervoy"
+  },
+  {
+    "type": "drug",
+    "name": "Opdivo"
+  },
+  {
+    "type": "drug",
+    "name": "Opdualag"
+  },
+  {
+    "type": "drug",
+    "name": "Opfolda"
+  },
+  {
+    "type": "drug",
+    "name": "Opsumit"
+  },
+  {
+    "type": "drug",
+    "name": "Opsynvi"
+  },
+  {
+    "type": "drug",
+    "name": "Opzelura"
+  },
+  {
+    "type": "drug",
+    "name": "Orbactiv"
+  },
+  {
+    "type": "drug",
+    "name": "Orencia"
+  },
+  {
+    "type": "drug",
+    "name": "Orenitram"
+  },
+  {
+    "type": "drug",
+    "name": "Orfadin"
+  },
+  {
+    "type": "drug",
+    "name": "Orgovyx"
+  },
+  {
+    "type": "drug",
+    "name": "Oriahnn"
+  },
+  {
+    "type": "drug",
+    "name": "Orilissa"
+  },
+  {
+    "type": "drug",
+    "name": "Orkambi"
+  },
+  {
+    "type": "drug",
+    "name": "Orladeyo"
+  },
+  {
+    "type": "drug",
+    "name": "Ormalvi"
+  },
+  {
+    "type": "drug",
+    "name": "Orserdu"
+  },
+  {
+    "type": "drug",
+    "name": "Osmolite"
+  },
+  {
+    "type": "drug",
+    "name": "Otezla"
+  },
+  {
+    "type": "drug",
+    "name": "Oxervate"
+  },
+  {
+    "type": "drug",
+    "name": "Oxlumo"
+  },
+  {
+    "type": "drug",
+    "name": "Oxtellar"
+  },
+  {
+    "type": "drug",
+    "name": "Ozempic"
+  },
+  {
+    "type": "drug",
+    "name": "Ozurdex"
+  },
+  {
+    "type": "drug",
+    "name": "Padcev"
+  },
+  {
+    "type": "drug",
+    "name": "Palforzia"
+  },
+  {
+    "type": "drug",
+    "name": "Palynziq"
+  },
+  {
+    "type": "drug",
+    "name": "Panhematin"
+  },
+  {
+    "type": "drug",
+    "name": "Parsabiv"
+  },
+  {
+    "type": "drug",
+    "name": "Pavblu"
+  },
+  {
+    "type": "drug",
+    "name": "Paxlovid"
+  },
+  {
+    "type": "drug",
+    "name": "PediaSure"
+  },
+  {
+    "type": "drug",
+    "name": "Pemazyre"
+  },
+  {
+    "type": "drug",
+    "name": "Pemfexy"
+  },
+  {
+    "type": "drug",
+    "name": "Pentacel"
+  },
+  {
+    "type": "drug",
+    "name": "Pentasa"
+  },
+  {
+    "type": "drug",
+    "name": "Perative"
+  },
+  {
+    "type": "drug",
+    "name": "Perforomist"
+  },
+  {
+    "type": "drug",
+    "name": "PERJETA"
+  },
+  {
+    "type": "drug",
+    "name": "Pertzye"
+  },
+  {
+    "type": "drug",
+    "name": "Phenex"
+  },
+  {
+    "type": "drug",
+    "name": "Phesgo"
+  },
+  {
+    "type": "drug",
+    "name": "PiaSky"
+  },
+  {
+    "type": "drug",
+    "name": "Pifeltro"
+  },
+  {
+    "type": "drug",
+    "name": "Piqray"
+  },
+  {
+    "type": "drug",
+    "name": "Plegridy"
+  },
+  {
+    "type": "drug",
+    "name": "Pluvicto"
+  },
+  {
+    "type": "drug",
+    "name": "Pneumovax"
+  },
+  {
+    "type": "drug",
+    "name": "Polivy"
+  },
+  {
+    "type": "drug",
+    "name": "Pomalyst"
+  },
+  {
+    "type": "drug",
+    "name": "Pombiliti"
+  },
+  {
+    "type": "drug",
+    "name": "Poteligeo"
+  },
+  {
+    "type": "drug",
+    "name": "Praluent"
+  },
+  {
+    "type": "drug",
+    "name": "Premarin"
+  },
+  {
+    "type": "drug",
+    "name": "Premphase"
+  },
+  {
+    "type": "drug",
+    "name": "Prempro"
+  },
+  {
+    "type": "drug",
+    "name": "Pretomanid"
+  },
+  {
+    "type": "drug",
+    "name": "Prevacid SoluTab"
+  },
+  {
+    "type": "drug",
+    "name": "Prevnar"
+  },
+  {
+    "type": "drug",
+    "name": "Prevymis"
+  },
+  {
+    "type": "drug",
+    "name": "Prezcobix"
+  },
+  {
+    "type": "drug",
+    "name": "Prezista"
+  },
+  {
+    "type": "drug",
+    "name": "Prialt"
+  },
+  {
+    "type": "drug",
+    "name": "Priftin"
+  },
+  {
+    "type": "drug",
+    "name": "Privigen vial 10%"
+  },
+  {
+    "type": "drug",
+    "name": "Proctofoam"
+  },
+  {
+    "type": "drug",
+    "name": "Procysbi"
+  },
+  {
+    "type": "drug",
+    "name": "Prodigy Insulin Syringes"
+  },
+  {
+    "type": "drug",
+    "name": "Prodigy No Coding Blood Glucose Strips"
+  },
+  {
+    "type": "drug",
+    "name": "Prodigy Preferred Blood Glucose Monitor"
+  },
+  {
+    "type": "drug",
+    "name": "Prodigy Twist Top Lancets 28G"
+  },
+  {
+    "type": "drug",
+    "name": "Proglycem oral suspension"
+  },
+  {
+    "type": "drug",
+    "name": "Prolastin C"
+  },
+  {
+    "type": "drug",
+    "name": "Prolensa"
+  },
+  {
+    "type": "drug",
+    "name": "Prolia"
+  },
+  {
+    "type": "drug",
+    "name": "Promacta"
+  },
+  {
+    "type": "drug",
+    "name": "Promote"
+  },
+  {
+    "type": "drug",
+    "name": "Promote with Fiber"
+  },
+  {
+    "type": "drug",
+    "name": "Propimex"
+  },
+  {
+    "type": "drug",
+    "name": "Provenge"
+  },
+  {
+    "type": "drug",
+    "name": "ProViMin"
+  },
+  {
+    "type": "drug",
+    "name": "Pulmocare"
+  },
+  {
+    "type": "drug",
+    "name": "Pulmozyme"
+  },
+  {
+    "type": "drug",
+    "name": "PuraPly AM Wound Dressing"
+  },
+  {
+    "type": "drug",
+    "name": "PuraPly Wound Dressing"
+  },
+  {
+    "type": "drug",
+    "name": "Pyrukynd"
+  },
+  {
+    "type": "drug",
+    "name": "Qalsody"
+  },
+  {
+    "type": "drug",
+    "name": "Qbrelis"
+  },
+  {
+    "type": "drug",
+    "name": "Qelbree"
+  },
+  {
+    "type": "drug",
+    "name": "Qinlock"
+  },
+  {
+    "type": "drug",
+    "name": "Qulipta"
+  },
+  {
+    "type": "drug",
+    "name": "Qutenza Patch"
+  },
+  {
+    "type": "drug",
+    "name": "Quzyttir"
+  },
+  {
+    "type": "drug",
+    "name": "Radicava iv"
+  },
+  {
+    "type": "drug",
+    "name": "Radicava ORS"
+  },
+  {
+    "type": "drug",
+    "name": "Rasuvo"
+  },
+  {
+    "type": "drug",
+    "name": "Ravicti Liquid"
+  },
+  {
+    "type": "drug",
+    "name": "Rayaldee"
+  },
+  {
+    "type": "drug",
+    "name": "RCF (Ross Carbohydrate Free)"
+  },
+  {
+    "type": "drug",
+    "name": "Rebif subcutaneous"
+  },
+  {
+    "type": "drug",
+    "name": "Rebinyn"
+  },
+  {
+    "type": "drug",
+    "name": "Reblozyl"
+  },
+  {
+    "type": "drug",
+    "name": "Recarbrio"
+  },
+  {
+    "type": "drug",
+    "name": "Recombinate rAHF"
+  },
+  {
+    "type": "drug",
+    "name": "Recombivax Hb"
+  },
+  {
+    "type": "drug",
+    "name": "Recorlev"
+  },
+  {
+    "type": "drug",
+    "name": "Rectiv ointment"
+  },
+  {
+    "type": "drug",
+    "name": "Regranex"
+  },
+  {
+    "type": "drug",
+    "name": "Relenza"
+  },
+  {
+    "type": "drug",
+    "name": "Releuko"
+  },
+  {
+    "type": "drug",
+    "name": "Relistor"
+  },
+  {
+    "type": "drug",
+    "name": "Relizorb"
+  },
+  {
+    "type": "drug",
+    "name": "Relpax"
+  },
+  {
+    "type": "drug",
+    "name": "Remodulin"
+  },
+  {
+    "type": "drug",
+    "name": "Renflexis"
+  },
+  {
+    "type": "drug",
+    "name": "Repatha"
+  },
+  {
+    "type": "drug",
+    "name": "Restasis"
+  },
+  {
+    "type": "drug",
+    "name": "Retevmo"
+  },
+  {
+    "type": "drug",
+    "name": "Retisert"
+  },
+  {
+    "type": "drug",
+    "name": "Retrovir"
+  },
+  {
+    "type": "drug",
+    "name": "Revcovi"
+  },
+  {
+    "type": "drug",
+    "name": "Revlimid"
+  },
+  {
+    "type": "drug",
+    "name": "Rexulti"
+  },
+  {
+    "type": "drug",
+    "name": "Reyvow"
+  },
+  {
+    "type": "drug",
+    "name": "Rezlidhia"
+  },
+  {
+    "type": "drug",
+    "name": "Rezurock"
+  },
+  {
+    "type": "drug",
+    "name": "Rezzayo"
+  },
+  {
+    "type": "drug",
+    "name": "Ridaura"
+  },
+  {
+    "type": "drug",
+    "name": "Rinvoq"
+  },
+  {
+    "type": "drug",
+    "name": "Risperdal Consta"
+  },
+  {
+    "type": "drug",
+    "name": "Rituxan"
+  },
+  {
+    "type": "drug",
+    "name": "Rituxan Hycela"
+  },
+  {
+    "type": "drug",
+    "name": "Rixubis"
+  },
+  {
+    "type": "drug",
+    "name": "Roctavian"
+  },
+  {
+    "type": "drug",
+    "name": "Rolvedon"
+  },
+  {
+    "type": "drug",
+    "name": "Rowasa"
+  },
+  {
+    "type": "drug",
+    "name": "Rozerem"
+  },
+  {
+    "type": "drug",
+    "name": "Rozlytrek"
+  },
+  {
+    "type": "drug",
+    "name": "Rubraca"
+  },
+  {
+    "type": "drug",
+    "name": "Ruconest"
+  },
+  {
+    "type": "drug",
+    "name": "Rukobia"
+  },
+  {
+    "type": "drug",
+    "name": "Rybelsus"
+  },
+  {
+    "type": "drug",
+    "name": "Rybrevant"
+  },
+  {
+    "type": "drug",
+    "name": "Rybrevant in combination with Lazcluze"
+  },
+  {
+    "type": "drug",
+    "name": "Rydapt"
+  },
+  {
+    "type": "drug",
+    "name": "Rylaze"
+  },
+  {
+    "type": "drug",
+    "name": "Rystiggo"
+  },
+  {
+    "type": "drug",
+    "name": "Rytary"
+  },
+  {
+    "type": "drug",
+    "name": "Ryzneuta"
+  },
+  {
+    "type": "drug",
+    "name": "Sajazir"
+  },
+  {
+    "type": "drug",
+    "name": "Samsca"
+  },
+  {
+    "type": "drug",
+    "name": "Sancuso"
+  },
+  {
+    "type": "drug",
+    "name": "Sandostatin"
+  },
+  {
+    "type": "drug",
+    "name": "Santyl"
+  },
+  {
+    "type": "drug",
+    "name": "Saphnelo"
+  },
+  {
+    "type": "drug",
+    "name": "Saphris"
+  },
+  {
+    "type": "drug",
+    "name": "Sarclisa"
+  },
+  {
+    "type": "drug",
+    "name": "Savella"
+  },
+  {
+    "type": "drug",
+    "name": "Scemblix"
+  },
+  {
+    "type": "drug",
+    "name": "Selzentry"
+  },
+  {
+    "type": "drug",
+    "name": "Semglee"
+  },
+  {
+    "type": "drug",
+    "name": "Serevent Diskus"
+  },
+  {
+    "type": "drug",
+    "name": "Serostim"
+  },
+  {
+    "type": "drug",
+    "name": "Sevenfact"
+  },
+  {
+    "type": "drug",
+    "name": "SF Rowasa"
+  },
+  {
+    "type": "drug",
+    "name": "Shingrix"
+  },
+  {
+    "type": "drug",
+    "name": "Signifor"
+  },
+  {
+    "type": "drug",
+    "name": "Siklos"
+  },
+  {
+    "type": "drug",
+    "name": "Siliq"
+  },
+  {
+    "type": "drug",
+    "name": "Similac PM 60/40"
+  },
+  {
+    "type": "drug",
+    "name": "Sirturo"
+  },
+  {
+    "type": "drug",
+    "name": "Skyclarys"
+  },
+  {
+    "type": "drug",
+    "name": "Skyla"
+  },
+  {
+    "type": "drug",
+    "name": "Skyrizi"
+  },
+  {
+    "type": "drug",
+    "name": "Skytrofa"
+  },
+  {
+    "type": "drug",
+    "name": "Sogroya"
+  },
+  {
+    "type": "drug",
+    "name": "Sohonos"
+  },
+  {
+    "type": "drug",
+    "name": "Soliqua"
+  },
+  {
+    "type": "drug",
+    "name": "Soliris"
+  },
+  {
+    "type": "drug",
+    "name": "Somatuline Depot"
+  },
+  {
+    "type": "drug",
+    "name": "Somavert"
+  },
+  {
+    "type": "drug",
+    "name": "Sotyktu"
+  },
+  {
+    "type": "drug",
+    "name": "Sovaldi"
+  },
+  {
+    "type": "drug",
+    "name": "Spiriva Respimat"
+  },
+  {
+    "type": "drug",
+    "name": "Spravato"
+  },
+  {
+    "type": "drug",
+    "name": "Sprycel"
+  },
+  {
+    "type": "drug",
+    "name": "Stimufend"
+  },
+  {
+    "type": "drug",
+    "name": "Stiolto Respimat"
+  },
+  {
+    "type": "drug",
+    "name": "Stivarga"
+  },
+  {
+    "type": "drug",
+    "name": "Strattice"
+  },
+  {
+    "type": "drug",
+    "name": "Strensiq"
+  },
+  {
+    "type": "drug",
+    "name": "Stribild"
+  },
+  {
+    "type": "drug",
+    "name": "Striverdi Respimat"
+  },
+  {
+    "type": "drug",
+    "name": "Stromectol"
+  },
+  {
+    "type": "drug",
+    "name": "Sucraid"
+  },
+  {
+    "type": "drug",
+    "name": "Sunlenca"
+  },
+  {
+    "type": "drug",
+    "name": "Supartz"
+  },
+  {
+    "type": "drug",
+    "name": "Suplena"
+  },
+  {
+    "type": "drug",
+    "name": "Sustol"
+  },
+  {
+    "type": "drug",
+    "name": "Susvimo"
+  },
+  {
+    "type": "drug",
+    "name": "Syfovre"
+  },
+  {
+    "type": "drug",
+    "name": "Sylvant"
+  },
+  {
+    "type": "drug",
+    "name": "Symdeko"
+  },
+  {
+    "type": "drug",
+    "name": "Symmetrel"
+  },
+  {
+    "type": "drug",
+    "name": "Symtuza"
+  },
+  {
+    "type": "drug",
+    "name": "Synjardy"
+  },
+  {
+    "type": "drug",
+    "name": "Synthroid"
+  },
+  {
+    "type": "drug",
+    "name": "Synvisc"
+  },
+  {
+    "type": "drug",
+    "name": "Synvisc-One"
+  },
+  {
+    "type": "drug",
+    "name": "Syprine"
+  },
+  {
+    "type": "drug",
+    "name": "Tabrecta"
+  },
+  {
+    "type": "drug",
+    "name": "Tafinlar"
+  },
+  {
+    "type": "drug",
+    "name": "Tagrisso"
+  },
+  {
+    "type": "drug",
+    "name": "Taltz"
+  },
+  {
+    "type": "drug",
+    "name": "Talvey"
+  },
+  {
+    "type": "drug",
+    "name": "Talzenna"
+  },
+  {
+    "type": "drug",
+    "name": "Targretin"
+  },
+  {
+    "type": "drug",
+    "name": "Tascenso"
+  },
+  {
+    "type": "drug",
+    "name": "Tasigna"
+  },
+  {
+    "type": "drug",
+    "name": "Tasmar"
+  },
+  {
+    "type": "drug",
+    "name": "Tavalisse"
+  },
+  {
+    "type": "drug",
+    "name": "Tavneos"
+  },
+  {
+    "type": "drug",
+    "name": "Tazverik"
+  },
+  {
+    "type": "drug",
+    "name": "Tecartus"
+  },
+  {
+    "type": "drug",
+    "name": "Tecentriq"
+  },
+  {
+    "type": "drug",
+    "name": "Tecentriq Hybreza"
+  },
+  {
+    "type": "drug",
+    "name": "Tecvayli"
+  },
+  {
+    "type": "drug",
+    "name": "Teflaro"
+  },
+  {
+    "type": "drug",
+    "name": "Tegretol"
+  },
+  {
+    "type": "drug",
+    "name": "Tenivac"
+  },
+  {
+    "type": "drug",
+    "name": "Tepezza"
+  },
+  {
+    "type": "drug",
+    "name": "Tepmetko"
+  },
+  {
+    "type": "drug",
+    "name": "Tevimbra"
+  },
+  {
+    "type": "drug",
+    "name": "Tezspire"
+  },
+  {
+    "type": "drug",
+    "name": "Thalomid"
+  },
+  {
+    "type": "drug",
+    "name": "Thiola"
+  },
+  {
+    "type": "drug",
+    "name": "Thymoglobulin"
+  },
+  {
+    "type": "drug",
+    "name": "Thyrogen"
+  },
+  {
+    "type": "drug",
+    "name": "Tibsovo"
+  },
+  {
+    "type": "drug",
+    "name": "Tikosyn"
+  },
+  {
+    "type": "drug",
+    "name": "Tirosint"
+  },
+  {
+    "type": "drug",
+    "name": "Tivdak"
+  },
+  {
+    "type": "drug",
+    "name": "Tivicay"
+  },
+  {
+    "type": "drug",
+    "name": "TNKase"
+  },
+  {
+    "type": "drug",
+    "name": "Tobi"
+  },
+  {
+    "type": "drug",
+    "name": "Toujeo"
+  },
+  {
+    "type": "drug",
+    "name": "Tracleer"
+  },
+  {
+    "type": "drug",
+    "name": "Tradjenta"
+  },
+  {
+    "type": "drug",
+    "name": "Trazimera"
+  },
+  {
+    "type": "drug",
+    "name": "Trecator"
+  },
+  {
+    "type": "drug",
+    "name": "Trelegy Ellipta"
+  },
+  {
+    "type": "drug",
+    "name": "Tremfya"
+  },
+  {
+    "type": "drug",
+    "name": "Tresiba"
+  },
+  {
+    "type": "drug",
+    "name": "Tretten"
+  },
+  {
+    "type": "drug",
+    "name": "Trijardy"
+  },
+  {
+    "type": "drug",
+    "name": "Trikafta"
+  },
+  {
+    "type": "drug",
+    "name": "Trintellix"
+  },
+  {
+    "type": "drug",
+    "name": "Triumeq"
+  },
+  {
+    "type": "drug",
+    "name": "Triumeq PD"
+  },
+  {
+    "type": "drug",
+    "name": "Trokendi"
+  },
+  {
+    "type": "drug",
+    "name": "Trudhesa"
+  },
+  {
+    "type": "drug",
+    "name": "Trulance"
+  },
+  {
+    "type": "drug",
+    "name": "Trulicity"
+  },
+  {
+    "type": "drug",
+    "name": "Trumenba"
+  },
+  {
+    "type": "drug",
+    "name": "Truqap"
+  },
+  {
+    "type": "drug",
+    "name": "Tukysa"
+  },
+  {
+    "type": "drug",
+    "name": "Turalio"
+  },
+  {
+    "type": "drug",
+    "name": "TwoCal"
+  },
+  {
+    "type": "drug",
+    "name": "Tykerb"
+  },
+  {
+    "type": "drug",
+    "name": "Tymlos"
+  },
+  {
+    "type": "drug",
+    "name": "Tyrex-1"
+  },
+  {
+    "type": "drug",
+    "name": "Tyrvaya"
+  },
+  {
+    "type": "drug",
+    "name": "Tysabri Vial"
+  },
+  {
+    "type": "drug",
+    "name": "Tyvaso"
+  },
+  {
+    "type": "drug",
+    "name": "Ubrelvy"
+  },
+  {
+    "type": "drug",
+    "name": "Uceris rectal foam"
+  },
+  {
+    "type": "drug",
+    "name": "Udenyca"
+  },
+  {
+    "type": "drug",
+    "name": "Ultomiris"
+  },
+  {
+    "type": "drug",
+    "name": "Uplizna"
+  },
+  {
+    "type": "drug",
+    "name": "Uptravi"
+  },
+  {
+    "type": "drug",
+    "name": "Uzedy"
+  },
+  {
+    "type": "drug",
+    "name": "Vabysmo"
+  },
+  {
+    "type": "drug",
+    "name": "Vagifem"
+  },
+  {
+    "type": "drug",
+    "name": "Valchlor"
+  },
+  {
+    "type": "drug",
+    "name": "Valtoco"
+  },
+  {
+    "type": "drug",
+    "name": "Vanflyta"
+  },
+  {
+    "type": "drug",
+    "name": "Vaqta"
+  },
+  {
+    "type": "drug",
+    "name": "Varivax"
+  },
+  {
+    "type": "drug",
+    "name": "Varubi"
+  },
+  {
+    "type": "drug",
+    "name": "Vaxneuvance"
+  },
+  {
+    "type": "drug",
+    "name": "Vectibix"
+  },
+  {
+    "type": "drug",
+    "name": "Veletri"
+  },
+  {
+    "type": "drug",
+    "name": "Velsipity"
+  },
+  {
+    "type": "drug",
+    "name": "Veltassa"
+  },
+  {
+    "type": "drug",
+    "name": "Vemlidy"
+  },
+  {
+    "type": "drug",
+    "name": "Venclexta"
+  },
+  {
+    "type": "drug",
+    "name": "Venofer"
+  },
+  {
+    "type": "drug",
+    "name": "Venxxiva"
+  },
+  {
+    "type": "drug",
+    "name": "Veopoz"
+  },
+  {
+    "type": "drug",
+    "name": "Verquvo"
+  },
+  {
+    "type": "drug",
+    "name": "Verzenio"
+  },
+  {
+    "type": "drug",
+    "name": "Viberzi"
+  },
+  {
+    "type": "drug",
+    "name": "Vidaza"
+  },
+  {
+    "type": "drug",
+    "name": "Viibryd"
+  },
+  {
+    "type": "drug",
+    "name": "Vijoice"
+  },
+  {
+    "type": "drug",
+    "name": "Viltepso"
+  },
+  {
+    "type": "drug",
+    "name": "Vimizim"
+  },
+  {
+    "type": "drug",
+    "name": "Viokace"
+  },
+  {
+    "type": "drug",
+    "name": "Vistogard"
+  },
+  {
+    "type": "drug",
+    "name": "Visudyne"
+  },
+  {
+    "type": "drug",
+    "name": "Vitrakvi"
+  },
+  {
+    "type": "drug",
+    "name": "Vivitrol"
+  },
+  {
+    "type": "drug",
+    "name": "Vizimpro"
+  },
+  {
+    "type": "drug",
+    "name": "Vonjo"
+  },
+  {
+    "type": "drug",
+    "name": "Vonvendi"
+  },
+  {
+    "type": "drug",
+    "name": "Voranigo"
+  },
+  {
+    "type": "drug",
+    "name": "Vosevi"
+  },
+  {
+    "type": "drug",
+    "name": "Votrient"
+  },
+  {
+    "type": "drug",
+    "name": "Vowst"
+  },
+  {
+    "type": "drug",
+    "name": "Voxzogo"
+  },
+  {
+    "type": "drug",
+    "name": "Voydeya"
+  },
+  {
+    "type": "drug",
+    "name": "Vraylar"
+  },
+  {
+    "type": "drug",
+    "name": "VTAMA"
+  },
+  {
+    "type": "drug",
+    "name": "Vumerity"
+  },
+  {
+    "type": "drug",
+    "name": "Vyepti"
+  },
+  {
+    "type": "drug",
+    "name": "Vyloy"
+  },
+  {
+    "type": "drug",
+    "name": "Vyndamax"
+  },
+  {
+    "type": "drug",
+    "name": "Vyndaqel"
+  },
+  {
+    "type": "drug",
+    "name": "Vyondys"
+  },
+  {
+    "type": "drug",
+    "name": "Vyvgart"
+  },
+  {
+    "type": "drug",
+    "name": "Vyxeos"
+  },
+  {
+    "type": "drug",
+    "name": "Vyzulta"
+  },
+  {
+    "type": "drug",
+    "name": "Wainua"
+  },
+  {
+    "type": "drug",
+    "name": "Wakix"
+  },
+  {
+    "type": "drug",
+    "name": "Welireg"
+  },
+  {
+    "type": "drug",
+    "name": "Wellbutrin"
+  },
+  {
+    "type": "drug",
+    "name": "Wixela"
+  },
+  {
+    "type": "drug",
+    "name": "Wyost"
+  },
+  {
+    "type": "drug",
+    "name": "Xadago"
+  },
+  {
+    "type": "drug",
+    "name": "Xalkori"
+  },
+  {
+    "type": "drug",
+    "name": "Xarelto"
+  },
+  {
+    "type": "drug",
+    "name": "Xatmep"
+  },
+  {
+    "type": "drug",
+    "name": "Xcopri"
+  },
+  {
+    "type": "drug",
+    "name": "Xeljanz"
+  },
+  {
+    "type": "drug",
+    "name": "Xembify"
+  },
+  {
+    "type": "drug",
+    "name": "Xeomin"
+  },
+  {
+    "type": "drug",
+    "name": "Xermelo"
+  },
+  {
+    "type": "drug",
+    "name": "XGEVA"
+  },
+  {
+    "type": "drug",
+    "name": "Xiaflex"
+  },
+  {
+    "type": "drug",
+    "name": "Xifaxan"
+  },
+  {
+    "type": "drug",
+    "name": "Xigduo"
+  },
+  {
+    "type": "drug",
+    "name": "Xiidra"
+  },
+  {
+    "type": "drug",
+    "name": "Xipere"
+  },
+  {
+    "type": "drug",
+    "name": "Xofigo"
+  },
+  {
+    "type": "drug",
+    "name": "Xolair"
+  },
+  {
+    "type": "drug",
+    "name": "Xospata"
+  },
+  {
+    "type": "drug",
+    "name": "Xpovio"
+  },
+  {
+    "type": "drug",
+    "name": "Xtandi"
+  },
+  {
+    "type": "drug",
+    "name": "Xulane"
+  },
+  {
+    "type": "drug",
+    "name": "Xultophy"
+  },
+  {
+    "type": "drug",
+    "name": "Xyntha"
+  },
+  {
+    "type": "drug",
+    "name": "Xyrem"
+  },
+  {
+    "type": "drug",
+    "name": "Xywav"
+  },
+  {
+    "type": "drug",
+    "name": "Yervoy"
+  },
+  {
+    "type": "drug",
+    "name": "Yescarta"
+  },
+  {
+    "type": "drug",
+    "name": "Yeztugo"
+  },
+  {
+    "type": "drug",
+    "name": "Yondelis"
+  },
+  {
+    "type": "drug",
+    "name": "Yupelri"
+  },
+  {
+    "type": "drug",
+    "name": "Yutiq"
+  },
+  {
+    "type": "drug",
+    "name": "Zarontin"
+  },
+  {
+    "type": "drug",
+    "name": "Zarxio"
+  },
+  {
+    "type": "drug",
+    "name": "Zavzpret"
+  },
+  {
+    "type": "drug",
+    "name": "Zejula"
+  },
+  {
+    "type": "drug",
+    "name": "Zelapar"
+  },
+  {
+    "type": "drug",
+    "name": "Zelboraf"
+  },
+  {
+    "type": "drug",
+    "name": "Zemaira"
+  },
+  {
+    "type": "drug",
+    "name": "Zenpep"
+  },
+  {
+    "type": "drug",
+    "name": "Zeposia"
+  },
+  {
+    "type": "drug",
+    "name": "Zepzelca"
+  },
+  {
+    "type": "drug",
+    "name": "Zerbaxa"
+  },
+  {
+    "type": "drug",
+    "name": "Ziihera"
+  },
+  {
+    "type": "drug",
+    "name": "Zilbrysq"
+  },
+  {
+    "type": "drug",
+    "name": "Zilretta"
+  },
+  {
+    "type": "drug",
+    "name": "Zirgan"
+  },
+  {
+    "type": "drug",
+    "name": "Zokinvy"
+  },
+  {
+    "type": "drug",
+    "name": "Zoladex"
+  },
+  {
+    "type": "drug",
+    "name": "Zolinza"
+  },
+  {
+    "type": "drug",
+    "name": "Zonegran"
+  },
+  {
+    "type": "drug",
+    "name": "Zonisade"
+  },
+  {
+    "type": "drug",
+    "name": "Zoryve"
+  },
+  {
+    "type": "drug",
+    "name": "Ztalmy"
+  },
+  {
+    "type": "drug",
+    "name": "Zydelig"
+  },
+  {
+    "type": "drug",
+    "name": "Zykadia"
+  },
+  {
+    "type": "drug",
+    "name": "Zylet"
+  },
+  {
+    "type": "drug",
+    "name": "Zynlonta"
+  },
+  {
+    "type": "drug",
+    "name": "Zynrelef"
+  },
+  {
+    "type": "drug",
+    "name": "Zynteglo"
+  },
+  {
+    "type": "drug",
+    "name": "Zynyz",
+    "": ""
+  }
+]
